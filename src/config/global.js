@@ -311,8 +311,7 @@ export default {
     {
       referencia:
         'Oficina del Alto Comisionado para los Derechos Humanos de las Naciones Unidas. (s. f.). ¿Qué es el enfoque diferencial?',
-      link:
-        'https://www.hchr.org.co/index.php/76-boletin/recursos/2470-ique-es-el-enfoque-diferencial',
+      link: 'https://www.hchr.org.co/mandato/',
     },
     {
       referencia:
@@ -353,8 +352,7 @@ export default {
     {
       referencia:
         'UNAM. (2018). Revista de Investigación Agraria y Ambiental. 9;2.',
-      link:
-        'https://hemeroteca.unad.edu.co/index.php/riaa/article/download/3291/3292/10268',
+      link: '',
     },
   ],
   creditos: {
