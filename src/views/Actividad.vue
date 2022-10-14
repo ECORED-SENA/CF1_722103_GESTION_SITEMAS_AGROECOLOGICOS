@@ -11,7 +11,7 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Emparejamiento entre término y definición
-        p.mb-4 #[b Objetivo] Afianzar los conocimientos sobre caracterización del territorio y las metodologías de participación comunitaria.
+        p.mb-4 Afianzar los conocimientos sobre caracterización del territorio y las metodologías de participación comunitaria.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0

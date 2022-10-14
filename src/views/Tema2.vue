@@ -81,7 +81,7 @@
       .row.justify-content-center
         .col-lg-10
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema2/img08.svg', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema2/img08.png', alt='')
 
     .row.justify-content-center.align-items-center
       .col-lg-7
@@ -130,7 +130,7 @@
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-md-0
             h4.mb-4 Clase 5 
-            p Padece de encharcamientos y pedegrosidad, por lo cual la actividad agropecuaria debe ser temporal; su uso debe tender hacia la conservación. 
+            p Padece de encharcamientos y pedregosidad, por lo cual la actividad agropecuaria debe ser temporal; su uso debe tender hacia la conservación. 
             p.mb-4 Planicies inundables de la Orinoquia, áreas bajas del Caribe, depresiones del río Magdalena y rondas de los ríos Guaviare, Apaporis, Caquetá, Putumayo, Vaupés y Vichada, hacen parte de este grupo.
             .row.align-items-center
               .col-auto
@@ -158,7 +158,7 @@
           .col-11.col-lg-5.mb-4.mb-md-0
             h4.mb-4 Clase 7 
             p Terrenos con un alto grado de vulnerabilidad a degradarse, ya sea por fuertes pendientes, erosión o baja calidad de la tierra; su uso es forestal y de carácter protector, y la ganadería representa todo un atentado ambiental.
-            p.mb-4 Localizadas en el centro y oriente de la Amazonia, Pacífico y pie de montes Andinos.
+            p.mb-4 Localizadas en el centro y oriente de la Amazonía, Pacífico y pie de montes Andinos.
             .row.align-items-center
               .col-auto
                 img.img-t(src='@/assets/curso/tema2/img15.svg', alt='')
