@@ -43,7 +43,7 @@
       h5 Figura 5.
       span <em>Relación humano naturaleza</em>
 
-    .bg_10.p-5.mb-5
+    .bg_10.p-3.p-lg-5.py-md-4.mb-5
       .row.justify-content-center
         .col-lg-12
           figure

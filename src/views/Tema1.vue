@@ -22,9 +22,9 @@
       .row.justify-content-end
         .col-lg-6.align-self-center.mb-4.mb-lg-0
           p.m-0.mt-4.mx-3.mx-lg-0 Esta metodología fomenta <b>la interacción interna y externa</b> de los grupos que comparten información, permitiendo el aprendizaje en conjunto para trabajar temas comunes. La participación dentro de las metodologías para el desarrollo comunitario se manifiesta a través de la experiencia de los participantes y esto genera un conocimiento en conjunto que repercute en el desarrollo endógeno a través de las comunidades mismas.
-        .col-lg-5.mb-4(data-aos="fade-left")
+        .col-lg-5.mb-0.mb-lg-4(data-aos="fade-left")
           figure
-            img.img-t(src='@/assets/curso/tema1/img02.svg', alt='') 
+            img(src='@/assets/curso/tema1/img02.svg', alt='') 
 
     p Es así como, a través de las metodologías participativas se puede compartir con las comunidades y con los grupos que tienen los conocimientos y habilidades aprendidas utilizando técnicas que facilitan la planificación de las sesiones a través del aprendizaje participativo en cualquier situación. 
 
@@ -61,7 +61,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img.img-t.m-auto(src='@/assets/curso/tema1/img06.svg', alt='')
+                img(src='@/assets/curso/tema1/img06.svg', alt='')
               
     Separador
 

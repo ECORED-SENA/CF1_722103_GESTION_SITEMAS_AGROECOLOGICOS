@@ -186,7 +186,7 @@
 
     p A pesar del análisis de la información se ocupa directamente del estudio del material de un ámbito específico, existen pautas básicas y generales  que se deben tener en cuenta a la hora de realizar el análisis de la información, las cuales van desde conocer el tipo de fuente es decir la tipología, como también el autor, la fecha, lugar y contexto histórico de publicación, para luego analizar la información, es decir, la idea central, los conceptos, los personajes y demás información obtenida, y, así lograr concluir y aportar desde su óptica y análisis. A continuación, se presentan en la infografía estas características: 
 
-    .bg_10.p-5.mb-5
+    .bg_10.p-3.p-lg-5.py-md-4.mb-5
       .row.justify-content-center
         .col-lg-12
           figure
