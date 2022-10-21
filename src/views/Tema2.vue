@@ -209,7 +209,7 @@
             .h4 pH
             p.m-0 Acidez, la neutralidad o alcalinidad del suelo.
 
-      .tarjeta.color3_1.p-3.px-4(x="32.3%" y="27.8%" numero="")
+      .tarjeta.color3_1.p-3.px-4(x="29%" y="34.6%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
             img(src='@/assets/curso/tema2/img20.svg')
@@ -225,7 +225,7 @@
             .h4 Color
             p.m-0 Depende de sus componentes y varía con la cantidad de humedad presente en el suelo.
 
-      .tarjeta.color3.p-3(x="64.6%" y="15.8%" numero="")
+      .tarjeta.color3.p-3(x="66%" y="13.5%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
             img(src='@/assets/curso/tema2/img22.svg')
@@ -241,7 +241,7 @@
             .h4 Densidad 
             p.m-0 Influye en la distribución de la vegetación. Más densos sustentan más cantidad de vegetación.
 
-      .tarjeta.color3_5.p-4.p-lg-3(x="93.3%" y="48.8%" numero="")
+      .tarjeta.color3_5.p-4.p-lg-3(x="93.5%" y="44.8%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
             img(src='@/assets/curso/tema2/img24.svg')
@@ -249,7 +249,7 @@
             .h4 Organismos
             p.m-0 Animales, bacterias, hongos, etc. Ejercen dependiendo de su alimentación, actividad, tamaño.
 
-      .tarjeta.color3_4.p-3(x="23.8%" y="61.2%" numero="")
+      .tarjeta.color3_4.p-3(x="20.5%" y="65.4%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
             img(src='@/assets/curso/tema2/img25.svg')

@@ -400,13 +400,13 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Yuly Rey',
+        nombre: 'Yuly Andrea Rey Quiñonez',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Daniel Polanco',
+        nombre: 'Juan Daniel Polanco Muñoz',
         cargo: 'Validación de diseño',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
