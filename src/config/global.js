@@ -423,8 +423,56 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Miguel Guerrero Gutiérrez',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Estefani Daniela Gallo Cortés',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Lina Marcela Pérez Manchego',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
         nombre: 'Wilson Andrés Arenales Cáceres',
+        cargo: 'Validación Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'John Jairo Arciniegas González',
         cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Erika Viviana Sandoval Rojas',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Carlos Eduardo Garavito Parada',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Ludwyng Corzo García',
+        cargo: 'Validación audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
