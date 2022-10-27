@@ -208,7 +208,7 @@ export default {
     {
       tema: 'Conocimientos tradicionales',
       referencia:
-        'FAO. (2018). Elementos de la agroecología. Guía para la transición hacia sistemas alimentarios y agrícolas sostenibles.',
+        'FAO. (2018). Los 10 elementos de la agroecología. Guía para la transición hacia sistemas alimentarios y agrícolas sostenibles.',
       tipo: 'Cartilla',
       link: 'https://www.fao.org/3/i9037es/i9037es.pdf ',
     },
@@ -258,12 +258,12 @@ export default {
     {
       termino: 'Territorio',
       significado:
-        ' Es el espacio físico ocupado por una población en el que se llevan a cabo relaciones sociales que establecen los seres humanos en los ámbitos cultural, social, político y económico. ',
+        'es el espacio físico ocupado por una población en el que se llevan a cabo relaciones sociales que establecen los seres humanos en los ámbitos cultural, social, político y económico. ',
     },
     {
       termino: 'Uso del suelo',
       significado:
-        'Manera en que una superficie física del territorio es tomada en función de su capacidad agroecológica y utilidad para el desarrollo humano.',
+        'manera en que una superficie física del territorio es tomada en función de su capacidad agroecológica y utilidad para el desarrollo humano.',
     },
   ],
   referencias: [

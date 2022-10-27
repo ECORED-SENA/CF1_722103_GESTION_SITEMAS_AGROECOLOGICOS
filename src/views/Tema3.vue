@@ -158,13 +158,11 @@
 
     .bg_16.p-4
       .row.justify-content-center.mb-4
-        .col-lg-10
+        .col-lg-12
           figure
             img.img-t.m-auto(src='@/assets/curso/tema3/img15.svg', alt='')
 
-    .row.justify-content-center.mb-4
-      .col-lg-12
-        figcaption Nota. Metodología para la identificación de actores sociales clave. Tavares R. y Fitch, J. (2019).    
+        figcaption Nota. Modelo de transición social agroecológica. Calle, Vara, y Cuéllar. (2006).    
 
     Separador
 

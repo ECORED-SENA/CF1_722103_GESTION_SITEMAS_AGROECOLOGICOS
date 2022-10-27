@@ -75,7 +75,7 @@
           figure
             img.img-t.m-auto(src='@/assets/curso/tema2/img07.svg', alt='')
 
-    p Al mismo tiempo, el uso del suelo se establece en función del ser humano que lo apropia, de ahí que el estudio del suelo sea referido al territorio y a ln  a actividad del cual será objeto. Por tal razón, se asocia no solo a la identificación de características físicas y visuales como textura, color, porosidad, densidad, forma, sino que también la satisfacción de las necesidades humanas y la ocupación de este, mediante un enfoque multidimensional, que implica la asociación de su funcionalidad y sus características.
+    p Al mismo tiempo, el uso del suelo se establece en función del ser humano que lo apropia, de ahí que el estudio del suelo sea referido al territorio y a la actividad del cual será objeto. Por tal razón, se asocia no solo a la identificación de características físicas y visuales como textura, color, porosidad, densidad, forma, sino que también la satisfacción de las necesidades humanas y la ocupación de este, mediante un enfoque multidimensional, que implica la asociación de su funcionalidad y sus características.
 
     .bg_11.p-4
       .row.justify-content-center
