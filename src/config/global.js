@@ -310,11 +310,6 @@ export default {
     },
     {
       referencia:
-        'Oficina del Alto Comisionado para los Derechos Humanos de las Naciones Unidas. (s. f.). ¿Qué es el enfoque diferencial?',
-      link: 'https://www.hchr.org.co/mandato/',
-    },
-    {
-      referencia:
         'Pírez, P. (1995). Actores sociales y gestión de la ciudad. Revista Ciudades, 28, 8-14.',
       link: '',
     },
