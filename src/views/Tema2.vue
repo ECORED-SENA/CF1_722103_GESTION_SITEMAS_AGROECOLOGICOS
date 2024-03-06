@@ -33,9 +33,9 @@
       .row.justify-content-center
         .col-lg-12
           figure
-            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img02.svg', alt='')
+            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img02.svg', alt='Figura 4: El territorio')
           figure
-            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema2/img03.svg', alt='')  
+            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema2/img03.svg', alt='Figura 4: El territorio')  
 
     p.mb-5 Por su parte, las relaciones socio ambientales se definen como los procesos de interacción que se estructuran a través de la apropiación del espacio y la manera en que el ser humano interacciona con el medio ambiente (ver figura 5).  
 
@@ -47,9 +47,9 @@
       .row.justify-content-center
         .col-lg-12
           figure
-            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img04.svg', alt='')
+            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img04.svg', alt='Figura 5: Relación humano naturaleza')
           figure
-            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema2/img05.svg', alt='')             
+            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema2/img05.svg', alt='Figura 5: Relación humano naturaleza')             
 
     p De esta manera, las relaciones socio ambientales se entienden como la manera en que los problemas ambientales tienen relación directa con la cuestión ambiental acompañada de acciones del grupo de probabilidades en el ámbito local, de la participación comunitaria y de las organizaciones no gubernamentales (Iñiguez Rojas, 1996).
 
@@ -73,7 +73,7 @@
       .col-lg-10
         .bg_6.p-4
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema2/img07.svg', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema2/img07.svg', alt='Figura 6: Suelos y sus disciplinas de estudio')
 
     p Al mismo tiempo, el uso del suelo se establece en función del ser humano que lo apropia, de ahí que el estudio del suelo sea referido al territorio y a la actividad del cual será objeto. Por tal razón, se asocia no solo a la identificación de características físicas y visuales como textura, color, porosidad, densidad, forma, sino que también la satisfacción de las necesidades humanas y la ocupación de este, mediante un enfoque multidimensional, que implica la asociación de su funcionalidad y sus características.
 

@@ -61,7 +61,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema1/img06.svg', alt='')
+                img(src='@/assets/curso/tema1/img06.svg', alt='Figura 1:Técnicas de investigación')
               
     Separador
 
@@ -73,7 +73,7 @@
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img07.png', alt='')
       .col-lg-8(data-aos="fade-right")        
-        p.m-0 La organización en las comunidades se establece a través de un objetivo en común y es promovida por los mismos actores sociales en busca de sus beneficios. La organización en comunidades toma forma según los criterios de relación e intereses y demandas organizativas endógenas. En esa medida, la organización comunitaria se manifiesta a partir de la necesidad de participación directa de las personas y sus comunidades en busca de generar conocimientos y transformaciones según los intereses comunitarios.  Según Muñoz (2012), las organizaciones comunitarias pueden ser definidas como el proceso por el cual los individuos intentan ocuparse de los asuntos relevantes para su comunidad. Este tipo de organizaciones establecen diversos enfoques, que en la siguiente infografía se pueden visualizar: 
+        p.m-0 La organización en las comunidades se establece a través de un objetivo en común y es promovida por los mismos actores sociales en busca de sus beneficios. La organización en comunidades toma forma según los criterios de relación e intereses y demandas organizativas endógenas. En esa medida, la organización comunitaria se manifiesta a partir de la necesidad de participación directa de las personas y sus comunidades en busca de generar conocimientos y transformaciones según los intereses comunitarios.  Según Muñoz (2012), las organizaciones comunitarias pueden ser definidas como el proceso por el cual los individuos intentan ocuparse de los asuntos relevantes para su comunidad. Este tipo de organizaciones establecen diversos enfoques, que en la siguiente infografía se pueden consultar: 
 
     .row.mb-5
       .col-lg-12
@@ -83,7 +83,7 @@
               h2.text-center.color1 Organizaciones comunitarias 
               p.text-center.t_letra1 Pueden contar con diversos enfoques como: 
               figure
-                img.img-t.m-auto(src='@/assets/curso/tema1/img08.svg', alt='')
+                img.img-t.m-auto(src='@/assets/curso/tema1/img08.svg', alt='Organizaciones comunitarias')
 
     p.mb-4 Las formas de organización comunitaria forman parte natural de la vida de los individuos, de ahí que, se pueda pensar como forma de organización comunitaria el territorio, la población, las familias, los grupos formales e informales que se organizan de manera formal e informal y los colectivos que contribuyen al desarrollo comunitario a través de la multidimensionalidad social a la que responde. Cada una de las formas de organización comunitaria agrupa un determinado número de individuos y responden a problemas, intereses y demandas particulares según la necesidad de respuesta de los objetivos de la organización. 
 
@@ -92,7 +92,7 @@
         figure
           img.img-t.m-auto(src='@/assets/curso/tema1/img09.svg', alt='')
       .col-lg-10(data-aos="fade-right")
-        p Colombia al ser un país con gran diversidad étnica y cultural, genera la presencia de grupos y comunidades que a pesar del paso del tiempo conservan su identidad, lengua, costumbres y tradiciones sociales, culturales y económicas, lo que conlleva a que se diferencie e identifique del resto de la sociedad. Estos se clasifican en 3 grandes grupos étnicos que son pueblos indígenas, negro o afrodescendientes, raizales, palenqueros y pueblo rom o gitano, a continuación  se puede visualizar cada grupo: 
+        p Colombia al ser un país con gran diversidad étnica y cultural, genera la presencia de grupos y comunidades que a pesar del paso del tiempo conservan su identidad, lengua, costumbres y tradiciones sociales, culturales y económicas, lo que conlleva a que se diferencie e identifique del resto de la sociedad. Estos se clasifican en 3 grandes grupos étnicos que son pueblos indígenas, negro o afrodescendientes, raizales, palenqueros y pueblo rom o gitano, a continuación, se puede visualizar cada grupo: por Colombia al ser un país con gran diversidad étnica y cultural, genera la presencia de grupos y comunidades que a pesar del paso del tiempo conservan su identidad, lengua, costumbres y tradiciones sociales, culturales y económicas, lo que conlleva a que se diferencie e identifique del resto de la sociedad. Estos se clasifican en 3 grandes grupos étnicos que son pueblos indígenas, negro o afrodescendientes, raizales, palenqueros y pueblo rom o gitano, a continuación, se puede destacar en uno de estos grupos: 
 
     .row.justify-content-evenly.align-items-lg-stretch.my-4.mb-5.m_tar-boton
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
@@ -188,9 +188,9 @@
     .row.justify-content-center
       .col-12
         figure
-          img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema1/img28.svg', alt='')
+          img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema1/img28.svg', alt='Figura 2: Metodología para la identificación de actores sociales')
         figure
-          img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema1/img27.svg', alt='')
+          img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema1/img27.svg', alt='Figura 2: Metodología para la identificación de actores sociales')
 
     .row.justify-content-center.mt-4
       .col-lg-12
@@ -220,7 +220,7 @@
     .row.justify-content-center
       .col-lg-6
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img21.svg', alt='') 
+          img.img-t.m-auto(src='@/assets/curso/tema1/img21.svg', alt='Figura 3: Sujetos del enfoque diferencial - Grupos de especial protección') 
 
     .row.justify-content-center.mt-4.mb-5
       .col-lg-12

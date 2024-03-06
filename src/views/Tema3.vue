@@ -128,7 +128,7 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema3/img13.svg', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img13.svg', alt='Figura 7: Clasificación fuentes de información')
 
     p En lo que tiene que ver con las fuentes de información de sistemas agroecológicos, estos contribuyen a resolver problemas por factores climáticos y sociales. Existen modelos como el propuesto por Calle Vara, y Cuéllar (2006) citado por Suarez, Urdaneta y Jaimes, (2019) denominado transición social agroecológica, que permite llevar a cabo el estudio y análisis del desarrollo de los sistemas agroecológicos (ver figura 8).
     p Este modelo establece una perspectiva del alcance con el objetivo de inducir a pensar y examinar en tres grandes dimensiones resultantes de la unión entre lo ecológico y lo social, que son:
@@ -160,7 +160,7 @@
       .row.justify-content-center.mb-4
         .col-lg-12
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema3/img15.svg', alt='')
+            img.img-t.m-auto(src='@/assets/curso/tema3/img15.svg', alt='Figura 8: Modelo de transición social agroecológica')
 
         figcaption Nota. Modelo de transición social agroecológica. Calle, Vara, y Cuéllar. (2006).    
 
@@ -188,9 +188,9 @@
       .row.justify-content-center
         .col-lg-12
           figure
-            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema3/img18.svg', alt='')
+            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema3/img18.svg', alt='Análisis de la información')
           figure
-            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema3/img19.svg', alt='') 
+            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema3/img19.svg', alt='Análisis de la información') 
 
     p.mb-5 Por tanto, juega un papel importante y decisivo la inteligencia, astucia y creatividad de la persona que realiza el proceso de análisis, ya que debe tener la capacidad de interpretar, analizar, argumentar, proponer y debatir, y no solo transcribir, resumir y referenciar.
 

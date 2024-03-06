@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1(data-aos="fade-right") Introducción
 
-    p.mb-4 Estimado aprendiz bienvenido al componente formativo “Caracterización del territorio para realizar propuestas agroecológicas”, para iniciar se debe visualizar el siguiente video y conocer más:
+    p.mb-4 Estimado aprendiz bienvenido al componente formativo “Caracterización del territorio para realizar propuestas agroecológicas”, para iniciar se invita a consultar el siguiente video y conocer más:
 
     figure
     .video
