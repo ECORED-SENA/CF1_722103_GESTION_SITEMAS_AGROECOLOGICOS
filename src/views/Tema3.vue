@@ -10,12 +10,7 @@
     .row.align-items-center.mb-5
       .col-lg-8(data-aos="fade-right")
         p.mx-3 En la actualidad el flujo de información genera que diferentes bases de datos acepten información de todo tipo para su consulta y tratamiento. De esa manera, una técnica para poder gestionar, analizar, sintetizar y elaborar fichas de información y que esta sea conducente con el interés del investigador es la revisión documental. 
-        .row.justify-content-around.align-items-center
-          .col-lg-2(data-aos="fade-left")
-            figure
-              img.mb-4.img-t.m-auto(src='@/assets/curso/tema3/img01.svg', alt='')
-          .col-lg-9(data-aos="fade-right")
-            p.mx-3 La revisión documental, es una herramienta que permite identificar de primera mano la información y de este modo, establecer la metodología cualitativa o cuantitativa de conveniencia académica y social para poder generar informes. Por tal razón, la revisión documental es un instrumento para organizar y darle uso a la información contenida en plataformas digitales y bibliotecas para el uso práctico y científico.
+        p.mx-3 La revisión documental, es una herramienta que permite identificar de primera mano la información y de este modo, establecer la metodología cualitativa o cuantitativa de conveniencia académica y social para poder generar informes. Por tal razón, la revisión documental es un instrumento para organizar y darle uso a la información contenida en plataformas digitales y bibliotecas para el uso práctico y científico.
         .cajon.color-acento-contenido.p-4.ps-5.color2
           p.m-0 Esta información sirve como punto de partida y de contexto de temáticas que necesitan ser investigadas y se desea conocer información previa. En ese sentido, esta técnica permite identificar los diversos documentos que contienen las fuentes de información relacionada, así mismo, permite distinguir sí hace falta información relevante del tema a investigar y por ende establece una orientación hacia los posibles resultados. 
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
@@ -89,9 +84,10 @@
           h4.mb-4.px-3 Otros tipos:
           p.px-3 Informes técnicos y de investigación, patentes bibliografías, actas, normas, catálogos, literatura gris. 
 
-    p.mb-5 Además, las fuentes de información cuentan con una clasificación general en:
+    p.text-center.mb-5
+      strong Además, las fuentes de información cuentan con una clasificación general en:
 
-    TabsB.color-acento-contenido.mb-5.color_img-tab
+    TabsB.color-acento-contenido.mb-5.color_img-tab.bg_17
       .py-4.py-md-5(titulo="Fuentes primarias" :icono="require('@/assets/curso/tema3/img10.svg')")
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
@@ -125,10 +121,14 @@
       h5 Figura 7.
       span <em>Clasificación fuentes de información</em>
     
+    
     .row.justify-content-center.mb-5
       .col-lg-8
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema3/img13.svg', alt='Figura 7: Clasificación fuentes de información')
+          img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema3/img13.svg', alt='Figura 7: Clasificación fuentes de información')
+        figure
+          img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema3/img21.svg', alt='Figura 7: Clasificación fuentes de información')             
+
 
     p En lo que tiene que ver con las fuentes de información de sistemas agroecológicos, estos contribuyen a resolver problemas por factores climáticos y sociales. Existen modelos como el propuesto por Calle Vara, y Cuéllar (2006) citado por Suarez, Urdaneta y Jaimes, (2019) denominado transición social agroecológica, que permite llevar a cabo el estudio y análisis del desarrollo de los sistemas agroecológicos (ver figura 8).
     p Este modelo establece una perspectiva del alcance con el objetivo de inducir a pensar y examinar en tres grandes dimensiones resultantes de la unión entre lo ecológico y lo social, que son:
@@ -184,7 +184,7 @@
 
     p A pesar del análisis de la información se ocupa directamente del estudio del material de un ámbito específico, existen pautas básicas y generales  que se deben tener en cuenta a la hora de realizar el análisis de la información, las cuales van desde conocer el tipo de fuente es decir la tipología, como también el autor, la fecha, lugar y contexto histórico de publicación, para luego analizar la información, es decir, la idea central, los conceptos, los personajes y demás información obtenida, y, así lograr concluir y aportar desde su óptica y análisis. A continuación, se presentan en la infografía estas características: 
 
-    .bg_10.p-3.p-lg-5.py-md-4.mb-5
+    .bg_color_secundario_blanco.p-3.p-lg-5.py-md-4.mb-5
       .row.justify-content-center
         .col-lg-12
           figure
@@ -204,7 +204,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Enlace web
-                  p.text-small Para poder buscar información específica en agroecología, existen diferentes bases de datos y revistas especificas en la disciplina, en el siguiente artículo se relacionan cada una de ellas.  
+                  p.text-small Para poder buscar información específica en agroecología, existen diferentes bases de datos y revistas específicas en la disciplina, en el siguiente artículo se relacionan cada una de ellas.  
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="obtenerLink('downloads/Administrador-Paginas-Inicio.pdf')" target="_blank")
                     span Enlace

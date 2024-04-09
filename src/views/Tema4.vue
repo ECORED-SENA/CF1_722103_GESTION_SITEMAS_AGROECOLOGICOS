@@ -25,7 +25,9 @@
         figure
           img.img-t.m-auto(src='@/assets/curso/tema4/img02.png', alt='')
       .col-lg-8(data-aos="fade-right")        
-        p.m-0 Los actores sociales se entienden como unidades reales de acción en la sociedad que inciden en la realidad local de las comunidades (Pírez, 1995). Los actores son parte esencial de la sociedad, pues son estos los encargados de gestar propuestas de intervención e interacción que permiten que las comunidades gestionen sus propios proyectos. Los actores actúan de manera individual y colectiva, lo cual, quiere decir que un actor social puede ser una comunidad en su totalidad o un simple líder de esta.  Para Pírez (1995) los actores están condicionados por las situaciones culturales, políticas, económicas y territoriales, y se les llama también "actores locales" porque su accionar está determinado en función de una lógica local y/o su comportamiento determina los procesos locales. Hay diferentes tipos de actores, entre los que se destacan: 
+        p.m-0 Los actores sociales se entienden como unidades reales de acción en la sociedad que inciden en la realidad local de las comunidades (Pírez, 1995). 
+          strong Los actores son parte esencial de la sociedad, pues son estos los encargados de gestar propuestas de intervención e interacción que permiten que las comunidades gestionen sus propios proyectos. 
+          span Los actores actúan de manera individual y colectiva, lo cual, quiere decir que un actor social puede ser una comunidad en su totalidad o un simple líder de esta.  Para Pírez (1995) los actores están condicionados por las situaciones culturales, políticas, económicas y territoriales, y se les llama también "actores locales" porque su accionar está determinado en función de una lógica local y/o su comportamiento determina los procesos locales. Hay diferentes tipos de actores, entre los que se destacan: 
 
     .row.justify-content-evenly.align-items-lg-stretch.mb-3.m_tar-boton
       .col-sm-6.col-lg-2.mb-3.mb-lg-0
@@ -165,13 +167,15 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
         h2 4.2. Hábitos y costumbres alimenticias
 
-    .row.justify-content-center.align-items-end.mb-5
-      .col-lg-7.mb-3
-        p Los hábitos alimenticios se entienden como las maneras en que los seres humanos se comportan en la selección y consumo de alimentos que terminan por volverse costumbre. Estos, están mediados por la cultura y la capacidad de producción que tienen sus territorios. De esta manera, los hábitos alimenticios están influenciados por la sociedad y las comunidades en que opera la alimentación desde la niñez hasta llegar a la adultez. A la par, los hábitos en la alimentación equilibrada repercuten en la salud pública de las personas, y conlleva a que las personas deban reconocer el tipo de alimento y la calidad de estos. 
-        p Así mismo, en los hábitos alimenticios, tiene gran impacto la disposición de alimentos, pues en algunas comunidades hay:   
+    .row.justify-content-center.align-items-top.mb-5
       .col-lg-5
         figure
           img.img-t.m-auto(src='@/assets/curso/tema4/img17.png', alt='')
+      .col-lg-7.mt-5
+        .mb-3.cajon.color-acento-contenido.p-4.ps-5.color2
+          p Los hábitos alimenticios se entienden como las maneras en que los seres humanos se comportan en la selección y consumo de alimentos que terminan por volverse costumbre. Estos, están mediados por la cultura y la capacidad de producción que tienen sus territorios. De esta manera, los hábitos alimenticios están influenciados por la sociedad y las comunidades en que opera la alimentación desde la niñez hasta llegar a la adultez. A la par, los hábitos en la alimentación equilibrada repercuten en la salud pública de las personas, y conlleva a que las personas deban reconocer el tipo de alimento y la calidad de estos. 
+        p Así mismo, en los hábitos alimenticios, tiene gran impacto la disposición de alimentos, pues en algunas comunidades hay:   
+      
 
     .row.justify-content-evenly.align-items-lg-stretch.mb-3.m_tar-boton
       .col-sm-6.col-lg-2.mb-3.mb-lg-0
@@ -256,7 +260,8 @@
             .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
               p.m-0 Caries por consumo de azúcares excesivos en la dieta
 
-    p Por tanto, los hábitos y costumbres alimenticias aportan a la formación del comportamiento de la humanidad, siendo la agricultura y la alimentación factores indispensables que deben ser analizados y manejados de forma que favorezcan la disminución del hambre y los desequilibrios alimenticios. Porque no se trata solo de aumentar la producción, sino que mediante la agroecología obtener un balance entre las costumbres, tradiciones y hábitos alimenticios y, así lograr que la relación entre las personas y la alimentación sea saludable.
+    .bg_17.p-4
+      p Por tanto, los hábitos y costumbres alimenticias aportan a la formación del comportamiento de la humanidad, siendo la agricultura y la alimentación factores indispensables que deben ser analizados y manejados de forma que favorezcan la disminución del hambre y los desequilibrios alimenticios. Porque no se trata solo de aumentar la producción, sino que mediante la agroecología obtener un balance entre las costumbres, tradiciones y hábitos alimenticios y, así lograr que la relación entre las personas y la alimentación sea saludable.
 
     Separador
 
@@ -269,14 +274,14 @@
           img.img-t.m-auto(src='@/assets/curso/tema4/img27.png', alt='')
       .col-lg-8(data-aos="fade-right")
         p La participación ciudadana es una estrategia política que busca la participación de la ciudadanía en la toma de decisiones de índole público y que tiene incidencia tanto en sus vidas como en sus comunidades. La participación ciudadana garantiza el cumplimiento de los derechos y que sean los individuos garantes de la toma de decisiones públicas de los problemas sociales que fundamentan la vida en comunidad. En ese sentido, la participación ciudadana garantiza una intervención de doble vía, en la cual, tanto como la comunidad como la organización democrática tienen colaboración en la formulación, ejecución y evaluación de procesos de toma de decisiones públicas de manera directa y colectiva. 
-        .cajon.color-acento-contenido.p-4.ps-5.color2.mb-4.mb-lg-0
+        .cajon.p-4.ps-5.bg_18.mb-4.mb-lg-0
           p.m-0 La participación ciudadana tiene como característica el involucramiento activo de los ciudadanos y es requerida e imprescindible la votación para lograr obtener la representación de las comunidades que partidarios de la democracia, pero lamentablemente muchas veces cuando quedan conformados los órganos de gobierno, la participación ciudadana se vuelve un privilegio de pocos y no existe intervención de todos los ciudadanos en la toma de decisiones.
-      .row.justify-content-around.align-items-center
-        .col-lg-10.mb-4.mb-lg-0(data-aos="fade-right")
-          p.m-0 De igual manera, la participación ciudadana concibe la política como una herramienta que garantiza el desarrollo social y local de sus comunidades. Esta, opera de manera que las personas, tengan una incidencia dentro de la gestión comunitaria en sus territorios. De esta manera, la participación ciudadana se vuelve garante del avance de las sociedades modernas, porque la participación no solo recae de manera representativa en los órganos políticos, sino también permite que sean los pobladores dentro de sus propias comunidades que gesten procesos de cambio social para el desarrollo social y humano.
-        .col-lg-2(data-aos="fade-left")
-          figure
-            img.mb-5.img-t.m-auto(src='@/assets/curso/tema4/img28.svg', alt='')
+    .tarjeta-avatar-b.mb-5
+      .tarjeta-avatar-b__img
+        img.img-t.m-auto(src='@/assets/curso/tema4/img28.svg', alt='')
+      .tarjeta.tarjeta--gris.shadow-sm
+        .p-4
+          p De igual manera, la participación ciudadana concibe la política como una herramienta que garantiza el desarrollo social y local de sus comunidades. Esta, opera de manera que las personas, tengan una incidencia dentro de la gestión comunitaria en sus territorios. De esta manera, la participación ciudadana se vuelve garante del avance de las sociedades modernas, porque la participación no solo recae de manera representativa en los órganos políticos, sino también permite que sean los pobladores dentro de sus propias comunidades que gesten procesos de cambio social para el desarrollo social y humano.
 
 
 </template>
