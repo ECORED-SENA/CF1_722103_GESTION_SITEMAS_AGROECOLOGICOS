@@ -27,6 +27,7 @@
           figure
             img.img-t.m-auto(src='@/assets/curso/tema2/img01.png', alt='') 
         
+      .row
         .col-lg-1
         .col-lg-11
           .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -38,9 +39,9 @@
         .row.justify-content-center
           .col-lg-12
             figure
-              img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img02.svg', alt='Figura 4: El territorio')
+              img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img02.svg', alt='EL territorio una porción de tierra que está delimitada, se relaciona y es un lugar donde coexiste la información, movilización, fortaleza y lucha a los agentes del capital; se considera un objeto de estudio para los análisis y diagnósticos, es un producto de la apropiación y construcción de manera social- natural de relaciones urbano-rurales y naturales.')
             figure
-              img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema2/img03.svg', alt='Figura 4: El territorio')  
+              img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema2/img03.svg', alt='EL territorio una porción de tierra que está delimitada, se relaciona y es un lugar donde coexiste la información, movilización, fortaleza y lucha a los agentes del capital; se considera un objeto de estudio para los análisis y diagnósticos, es un producto de la apropiación y construcción de manera social- natural de relaciones urbano-rurales y naturales.')  
 
     p.mb-5 Por su parte, las relaciones socio ambientales se definen como los procesos de interacción que se estructuran a través de la apropiación del espacio y la manera en que el ser humano interacciona con el medio ambiente (ver figura 5).  
 
@@ -52,9 +53,9 @@
       .row.justify-content-center
         .col-lg-12
           figure
-            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img04.svg', alt='Figura 5: Relación humano naturaleza')
+            img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img04.svg', alt='Relación humano naturaleza: la relación ser humano y naturaleza se ha construido como relación simbólica así: la dimensión social debe tener como concepto la dimensión ambiental y es el medio en que las relaciones humanas se estructuran y toman forma.')
           figure
-            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema2/img05.svg', alt='Figura 5: Relación humano naturaleza')             
+            img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema2/img05.svg', alt='Relación humano naturaleza: la relación ser humano y naturaleza se ha construido como relación simbólica así: la dimensión social debe tener como concepto la dimensión ambiental y es el medio en que las relaciones humanas se estructuran y toman forma.')             
 
     p De esta manera, las relaciones socio ambientales se entienden como la manera en que los problemas ambientales tienen relación directa con la cuestión ambiental acompañada de acciones del grupo de probabilidades en el ámbito local, de la participación comunitaria y de las organizaciones no gubernamentales (Iñiguez Rojas, 1996).
 
@@ -80,7 +81,7 @@
       .col-lg-12
         .bg_color_secundario_blanco.p-4
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema2/img07.svg', alt='Figura 6: Suelos y sus disciplinas de estudio')
+            img.img-t.m-auto(src='@/assets/curso/tema2/img07.svg', alt='El suelo y sus disciplinas de estudio están relacionadas de la siguiente forma: edafología, geología, ecología, agronomía, arquitectura, urbanismo, geografía, ordenamiento territorial.')
 
     .row.align-items-center
       .col-lg-4
@@ -90,7 +91,7 @@
           img.img-t.m-auto(src='@/assets/curso/tema2/img08.png', alt='')
 
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-5(data-aos="fade-left")
         figure
           img.img-t.m-auto(src='@/assets/curso/tema2/img09.png', alt='') 
@@ -108,7 +109,7 @@
             p.mb-4 Distribuidas en zonas del caribe y la región andina (como la Sabana de Bogotá) y los valles interandinos.
             .row.align-items-center
               .col-auto
-                img.img-t(src='@/assets/curso/tema2/img11.svg', alt='')
+                img.img-t(src='@/assets/curso/tema2/img11.svg', alt='Torta de porcentaje del 3.1 %')
               .col-7.col-lg-8
                 p.m-0 <b>Ocupan el 3,1% (231 mil hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
@@ -122,7 +123,7 @@
             p.mb-4 Distribuidas por la altillanura plana, departamentos como Magdalena, Sucre y Córdoba, y algunas zonas de la región andina.
             .row.align-items-center
               .col-auto
-                img.img-t(src='@/assets/curso/tema2/img12.svg', alt='')
+                img.img-t(src='@/assets/curso/tema2/img12.svg', alt='Torta de porcentaje de 12.7 %')
               .col-7.col-lg-8
                 p.m-0 <b>12,7% (14,5 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
@@ -136,7 +137,7 @@
             p.mb-4 Planicies inundables de la Orinoquia, áreas bajas del Caribe, depresiones del río Magdalena y rondas de los ríos Guaviare, Apaporis, Caquetá, Putumayo, Vaupés y Vichada, hacen parte de este grupo.
             .row.align-items-center
               .col-auto
-                img.img-t(src='@/assets/curso/tema2/img13.svg', alt='')
+                img.img-t(src='@/assets/curso/tema2/img13.svg', alt='Torta de porcentaje de 7.4%')
               .col-7.col-lg-8
                 p.m-0 <b>7,4% (8,4 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
@@ -149,7 +150,7 @@
             p.mb-4 Conformada por suelos para actividades forestales y agroforestales, o cultivos densos, semiperennes y perennes, y están en el centro y oriente de la Amazonia, Pacífico y piedemontes Andinos.
             .row.align-items-center
               .col-auto
-                img.img-t(src='@/assets/curso/tema2/img14.svg', alt='')
+                img.img-t(src='@/assets/curso/tema2/img14.svg', alt='Torta con porcentaje de 26.2 %')
               .col-7.col-lg-8
                 p.m-0 <b>26,2% (29,9 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
@@ -163,7 +164,7 @@
             p.mb-4 Localizadas en el centro y oriente de la Amazonía, Pacífico y pie de montes Andinos.
             .row.align-items-center
               .col-auto
-                img.img-t(src='@/assets/curso/tema2/img15.svg', alt='')
+                img.img-t(src='@/assets/curso/tema2/img15.svg', alt='Torta de porcentaje de 36.1%')
               .col-7.col-lg-8
                 p.m-0 <b>36,1% (41,2 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
@@ -176,7 +177,7 @@
             p.mb-4 Terrenos intocables para cualquier tipo de producción, ya que son para la conservación, regulación del agua, protección de la fauna y recreación sostenible. Esta clase está distribuida por todo el país, destacándose en la región Andina, las 2,9 millones de hectáreas de páramos, la Sierra Nevada de Santa Marta y departamentos como Amazonas y Vichada.
             .row.align-items-center
               .col-auto
-                img.img-t(src='@/assets/curso/tema2/img16.svg', alt='')
+                img.img-t(src='@/assets/curso/tema2/img16.svg', alt='Torta de porcentaje de 12.5 %')
               .col-7.col-lg-8
                 p.m-0 <b>12,5% (14,2 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
@@ -201,7 +202,7 @@
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema2/img18.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/tema2/img18.png', alt='Principales características y biofísicas del suelo: estructura, textura, organismos, densidad, capacidad de intercambio, color, fertilidad y Ph.')
 
       .tarjeta.color3.p-3(x="6.2%" y="5.2%" numero="")
         .row

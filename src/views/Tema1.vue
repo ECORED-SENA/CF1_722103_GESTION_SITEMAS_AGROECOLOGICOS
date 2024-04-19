@@ -63,7 +63,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema1/img06.svg', alt='Figura 1:Técnicas de investigación')
+                img(src='@/assets/curso/tema1/img06.svg', alt='Muestra las técnicas de investigación, que son: Grupo focal, paneles ciudadanos, matriz DAFO, talleres, presupuesto participativo, matriz de evaluación, matriz reflexiva, transectos, entrevista deliberativa, intervención participativa, flujograma, sociograma, consultar popular o sondeo, conferencia de concenso y photo voice')
               
     Separador
 
@@ -85,7 +85,7 @@
               h2.text-center.color1 Organizaciones comunitarias 
               p.text-center.t_letra1 Pueden contar con diversos enfoques como: 
               figure
-                img.img-t.m-auto(src='@/assets/curso/tema1/img08.svg', alt='Organizaciones comunitarias')
+                img.img-t.m-auto(src='@/assets/curso/tema1/img08.svg', alt='Muestra el tipo de organizaciones y establece los diversos enfoques, esta descripción se pone de la imagen.')
 
     p.mb-5 Las formas de organización comunitaria forman parte natural de la vida de los individuos, de ahí que, se pueda pensar como forma de organización comunitaria el territorio, la población, las familias, los grupos formales e informales que se organizan de manera formal e informal y los colectivos que contribuyen al desarrollo comunitario a través de la multidimensionalidad social a la que responde. Cada una de las formas de organización comunitaria agrupa un determinado número de individuos y responden a problemas, intereses y demandas particulares según la necesidad de respuesta de los objetivos de la organización. 
     
@@ -195,9 +195,9 @@
     .row.justify-content-center
       .col-12
         figure
-          img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema1/img28.svg', alt='Figura 2: Metodología para la identificación de actores sociales')
+          img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema1/img28.svg', alt='Se muestra la metodología para identificación de actores sociales, debajo de la imagen se detallan dichas metodologías.')
         figure
-          img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema1/img27.svg', alt='Figura 2: Metodología para la identificación de actores sociales')
+          img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema1/img27.svg', alt='Se muestra la metodología para identificación de actores sociales, debajo de la imagen se detallan dichas metodologías.')
 
     .row.justify-content-center.mt-4
       .col-lg-12
@@ -225,7 +225,7 @@
           h5 Figura 3.
           span <em>Sujetos del enfoque diferencial - Grupos de especial protección</em>
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img21.svg', alt='Figura 3: Sujetos del enfoque diferencial - Grupos de especial protección') 
+          img.img-t.m-auto(src='@/assets/curso/tema1/img21.svg', alt='Muestra el grupo especial de protección, que se describirá debajo de la imagen.') 
 
     .row.justify-content-center.mt-4.mb-5
       .col-lg-8

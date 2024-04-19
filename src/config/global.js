@@ -206,14 +206,14 @@ export default {
       link: 'https://www.camjol.info/index.php/REICE/article/view/4362',
     },
     {
-      tema: 'Conocimientos tradicionales',
+      tema: 'Conocimientos tradicionales y actores',
       referencia:
         'FAO. (2018). Los 10 elementos de la agroecología. Guía para la transición hacia sistemas alimentarios y agrícolas sostenibles.',
       tipo: 'Cartilla',
       link: 'https://www.fao.org/3/i9037es/i9037es.pdf ',
     },
     {
-      tema: 'Conocimientos tradicionales',
+      tema: 'Conocimientos tradicionales y actores',
       referencia:
         'Lillo-Crespo, M., & Vizcaya-Moreno, M. F. (2002). Origen y desarrollo de los hábitos y costumbres alimentarias como recurso sociocultural del ser humano: una aproximación a la historia y antropología de los cuidados en la alimentación. Cultura de los cuidados, Año VI, n. 11 (1. semestre 2003); pp. 61-65.',
       tipo: 'Artículo',
@@ -353,9 +353,15 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Maria Camila Garcia Santamaria',
-        cargo: 'Líder del equipo',
+        nombre: 'Tatiana Villamil',
+        cargo: 'Responsable del equipo',
         centro: 'Dirección General',
+      },
+      {
+        nombre: 'Miguel de Jesús Paredes Maestre',
+        cargo: 'Responsable de línea de producción',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
       },
     ],
     contenidoInstruccional: [
@@ -363,28 +369,28 @@ export default {
         nombre: 'Rafael Neftalí Lizcano Reyes',
         cargo: 'Responsable equipo desarrollo curricular',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Yisela Andrea Vidales Vásquez',
         cargo: 'Experta temática',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        centro: 'Regional Tolima - Centro de Comercio y Servicios',
       },
       {
         nombre: 'Paola Alexandra Moya Peralta',
         cargo: 'Diseñadora instruccional',
         centro:
-          'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
       },
       {
         nombre: 'Carolina Coca Salazar',
-        cargo: 'Asesora metodológica ',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        cargo: 'Asesora metodológica',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',
         cargo: 'Corrector de estilo',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
     ],
     desarrolloProducto: [
@@ -392,103 +398,133 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Yuly Andrea Rey Quiñonez',
         cargo: 'Diseño web',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Juan Daniel Polanco Muñoz',
         cargo: 'Validación de diseño',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Marcia Elizabeth Solano Alvarez',
         cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Zuleidy María Ruíz Torres',
         cargo: 'Revisión de guion audiovisual',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        centro: 'Regional Tolima - Centro de Comercio y Servicios',
       },
       {
         nombre: 'María Carolina Tamayo López',
         cargo: 'Locución',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Miguel Guerrero Gutiérrez',
         cargo: 'Ilustración',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Estefani Daniela Gallo Cortés',
         cargo: 'Ilustración',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Lina Marcela Pérez Manchego',
         cargo: 'Ilustración',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Validación Ilustración',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'John Jairo Arciniegas González',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Erika Viviana Sandoval Rojas',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Carlos Eduardo Garavito Parada',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Ludwyng Corzo García',
         cargo: 'Validación audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Gilberto Junior Rodríguez Rodríguez',
         cargo: 'Validación audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
       {
         nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Eulises Orduz Amezquita',
+        cargo: 'Diseñador de contenidos digitales',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+      {
+        nombre: 'Álvaro Guillermo Araújo Angarita',
+        cargo: 'Desarrollo Fullstack',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        centro: 'Regional Tolima - Centro de Comercio y Servicios',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Evaluación de contenidos inclusivos y accesibles',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+      {
+        nombre: 'Luz Karime Amaya Cabra',
+        cargo: 'Evaluador para contenidos inclusivos y accesibles',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+      {
+        nombre: 'Juan Carlos Cardona Acosta',
+        cargo: 'Validación de recursos digitales ',
+        centro:
+          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
       },
     ],
   },
