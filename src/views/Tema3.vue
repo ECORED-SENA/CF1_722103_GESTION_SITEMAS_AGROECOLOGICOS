@@ -15,13 +15,13 @@
           p.m-0 Esta información sirve como punto de partida y de contexto de temáticas que necesitan ser investigadas y se desea conocer información previa. En ese sentido, esta técnica permite identificar los diversos documentos que contienen las fuentes de información relacionada, así mismo, permite distinguir sí hace falta información relevante del tema a investigar y por ende establece una orientación hacia los posibles resultados. 
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema3/img02.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema3/img02.png', alt='Imagen Decorativa')
 
     .bg_13.p-5
       .row.justify-content-center.align-items-center
         .col-lg-4.mb-4(data-aos="fade-left")
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema3/img04.svg', alt='') 
+            img.img-t.m-auto(src='@/assets/curso/tema3/img04.svg', alt='Imagen Decorativa') 
         .col-lg-7.col-xl-8.col-xxl-7.mt-4
           p.m-0 La revisión documental se conoce como una manera de investigación técnica mediante un grupo de operaciones intelectuales enfocadas a detallar y representar los documentos de modo consolidado y sistemático y, así ayudar a su recuperación. Además, este procedimiento incorpora diversos apartados como el índice, las reseñas, las referencias y fuentes bibliográficas (Madrid y Ortiz, 2005).
 
@@ -39,7 +39,7 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/tema3/img05.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema3/img05.png',  alt='Imagen Decorativa')
 
           h4.mb-4.px-3 Obras de consulta:
           p.px-3 Enciclopedias, diccionarios, directorios, anuarios, índices, biografías, manuales, cronologías.
@@ -49,7 +49,7 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/tema3/img06.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema3/img06.png', alt='Imagen Decorativa')
 
           h4.mb-4.px-3 Obras literarias y científicas:
           p.px-3 Libros, tesis, artículos, folletos.
@@ -59,7 +59,7 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/tema3/img07.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema3/img07.png', alt='Imagen Decorativa')
 
           h4.mb-4.px-3 Audiovisuales:
           p.px-3 Películas, diapositivas, videos, documentales, audios. 
@@ -69,7 +69,7 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/tema3/img08.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema3/img08.png', alt='Imagen Decorativa')
 
           h4.mb-4.px-3 Publicaciones periódicas:
           p.px-3 Periódicos, diarios, revistas, boletines. 
@@ -79,7 +79,7 @@
           .row.justify-content-center.mb-3
             .col-12
               figure
-                img(src='@/assets/curso/tema3/img09.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/tema3/img09.png', alt='Imagen Decorativa')
 
           h4.mb-4.px-3 Otros tipos:
           p.px-3 Informes técnicos y de investigación, patentes bibliografías, actas, normas, catálogos, literatura gris. 
@@ -95,7 +95,7 @@
             p Son las que suministran información directa, nueva y auténtica, publicada por primera vez y que no ha sido analizada por otra persona, como, por ejemplo, libros, manuscritos, entrevistas, discursos, cartas, diarios, revistas, videos, guías, testimonios, foros, tesis, documentales, informes, etc.    
           .col-md-4
             figure
-              img(src='@/assets/curso/tema3/img10.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema3/img10.png',  alt='Imagen Decorativa')
                       
       .py-4.py-md-5(titulo="Fuentes secundarias" :icono="require('@/assets/curso/tema3/img11.svg')")
         .row.justify-content-center
@@ -104,7 +104,7 @@
             p Contienen información obtenida de fuentes primarias que ha sido analizada, interpretada, ampliada, reorganizada y recapitulada, como por ejemplo las enciclopedias.      
           .col-md-4
             figure
-              img(src='@/assets/curso/tema3/img11.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema3/img11.png',  alt='Imagen Decorativa')
                 
       .py-4.py-md-5(titulo="Fuentes terciarias" :icono="require('@/assets/curso/tema3/img12.svg')")
         .row.justify-content-center
@@ -113,7 +113,7 @@
             p Sirven para tener una noción o idea general del tema ya que reúnen y depura la información primaria y secundaria, logrando facilitar su control y acceso como por ejemplo directorios, bibliografías, índices, listas de lectura.     
           .col-md-4
             figure
-              img(src='@/assets/curso/tema3/img12.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema3/img12.png',  alt='Imagen Decorativa')
 
     p Pero adicionalmente, como se observa en la figura 7 las fuentes de información cuentan con otras clasificaciones dependiendo del procedencia u origen de la información, según su formato, el alcance geográfico. 
 
@@ -137,7 +137,7 @@
       .row.justify-content-center.align-items-center
         .col-lg-4.mb-5
           figure
-            img.img-t.mx-auto(src='@/assets/curso/tema3/img14.svg', alt='')
+            img.img-t.mx-auto(src='@/assets/curso/tema3/img14.svg', alt='Imagen Decorativa')
         .col-lg-6.col-xl-7.col-xxl-6
           ul.lista-ul--color
             li 
@@ -175,12 +175,12 @@
         .bg_15.p-4
           .row.align-items-center
             .col-auto.mb-4.mb-lg-0
-              img.img-t.mx-auto(src='@/assets/curso/tema3/img16.svg', alt='')
+              img.img-t.mx-auto(src='@/assets/curso/tema3/img16.svg', alt='Imagen Decorativa')
             .col-lg-10.col-md-9.col-xl-9.col-xxl-10
               p.m-0 Si se realiza de manera eficiente y productiva permite que el conocimiento adquirido sea empleado de forma exitosa y así agilizar su ejecución y puesta en práctica, como también la toma de decisiones y la recuperación de información.  
       .col-lg-5
         figure
-          img.img-t(src='@/assets/curso/tema3/img17.png', alt='')
+          img.img-t(src='@/assets/curso/tema3/img17.png', alt='Imagen Decorativa')
 
     p A pesar del análisis de la información se ocupa directamente del estudio del material de un ámbito específico, existen pautas básicas y generales  que se deben tener en cuenta a la hora de realizar el análisis de la información, las cuales van desde conocer el tipo de fuente es decir la tipología, como también el autor, la fecha, lugar y contexto histórico de publicación, para luego analizar la información, es decir, la idea central, los conceptos, los personajes y demás información obtenida, y, así lograr concluir y aportar desde su óptica y análisis. A continuación, se presentan en la infografía estas características: 
 

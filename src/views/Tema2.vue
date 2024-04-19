@@ -25,7 +25,7 @@
           p.m-0 El territorio como concepto toma acepciones de diferentes disciplinas, por esta razón, puede decirse que su definición es interdisciplinaria, pues el territorio no es únicamente concebido como una porción de tierra, sino que este integra diferentes características que hacen que el territorio se configure y establezca como objeto de estudio no solo de geógrafos, pues ya en la época de los ochenta, se convierte en concepto de estudio de más disciplinas, en la que se encuentran los sociólogos y urbanistas, quienes lo analizan desde una perspectiva y óptica enfocada al restablecimiento de identidades culturales que están vinculadas de forma estrecha con la tierra y sus recursos (ver figura 4).
         .col-lg-4.order-xs-1.mb-4.mb-lg-0(data-aos="fade-left")
           figure
-            img.img-t.m-auto(src='@/assets/curso/tema2/img01.png', alt='') 
+            img.img-t.m-auto(src='@/assets/curso/tema2/img01.png',  alt='Imagen Decorativa') 
         
       .row
         .col-lg-1
@@ -88,13 +88,13 @@
         p Al mismo tiempo, el uso del suelo se establece en función del ser humano que lo apropia, de ahí que el estudio del suelo sea referido al territorio y a la actividad del cual será objeto. Por tal razón, se asocia no solo a la identificación de características físicas y visuales como textura, color, porosidad, densidad, forma, sino que también la satisfacción de las necesidades humanas y la ocupación de este, mediante un enfoque multidimensional, que implica la asociación de su funcionalidad y sus características.
       .col-lg-8
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema2/img08.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema2/img08.png', alt='Imagen Decorativa')
 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-5(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema2/img09.png', alt='') 
+          img.img-t.m-auto(src='@/assets/curso/tema2/img09.png', alt='Imagen Decorativa') 
       .col-lg-8
         p.mb-4 El uso del suelo responde a fines y propósitos de la manera en que es entendido el territorio del cual hace parte. La naturaleza del <b>uso del suelo depende de la ubicación, las fronteras, la región y el contexto histórico que comparte</b>. Hay uso del suelo para turismo, negocios, de protección ambiental o de explotación agropecuaria. En ese sentido, el uso del suelo está mediado por el análisis territorial y las normativas vigentes dentro de las políticas públicas. De tal manera, el uso del suelo tiene un contexto histórico, en el cual, este repercute para determinar programas de explotación o preservación a partir de estudios que permiten distinguir entre los usos legales y los usos reales que se les da.
         .cajon.color-acento-contenido.p-4.ps-5.color2
@@ -114,7 +114,7 @@
                 p.m-0 <b>Ocupan el 3,1% (231 mil hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
-              img(src='@/assets/curso/tema2/img11.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/img11.png', alt='Imagen Decorativa')
 
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-md-0
@@ -128,7 +128,7 @@
                 p.m-0 <b>12,7% (14,5 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
-              img(src='@/assets/curso/tema2/img12.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/img12.png',  alt='Imagen Decorativa')
         
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-md-0
@@ -142,7 +142,7 @@
                 p.m-0 <b>7,4% (8,4 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
-              img(src='@/assets/curso/tema2/img13.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/img13.png',  alt='Imagen Decorativa')
 
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-md-0
@@ -155,7 +155,7 @@
                 p.m-0 <b>26,2% (29,9 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
-              img(src='@/assets/curso/tema2/img14.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/img14.png',  alt='Imagen Decorativa')
 
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-md-0
@@ -169,7 +169,7 @@
                 p.m-0 <b>36,1% (41,2 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
-              img(src='@/assets/curso/tema2/img15.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/img15.png', alt='Imagen Decorativa')
         
         .row.justify-content-center.align-items-center
           .col-11.col-lg-5.mb-4.mb-md-0
@@ -182,7 +182,7 @@
                 p.m-0 <b>12,5% (14,2 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
-              img(src='@/assets/curso/tema2/img16.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/tema2/img16.png', alt='Imagen Decorativa')
 
     Separador
 
@@ -192,7 +192,7 @@
     .row.align-items-center
       .col-lg-4.mb-5(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema2/img17.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema2/img17.png',  alt='Imagen Decorativa')
       .col-lg-8(data-aos="fade-right")        
         p El suelo está constituido por una gran variedad de elementos como materia orgánica, minerales, agua, aire y organismos,  es un elemento esencial para la vida, ya que desarrolla funciones vitales como la producción de alimentos, moderación del ciclo hidrológico, soporte para las plantas, regulación del hábitat, fertilidad, procesamiento de la materia orgánica, retención y oferta de nutrientes;  es decir, aporta no solo a la naturaleza, sino que también a la sociedad, las actividades humanas, el territorio y las culturas de las generaciones presentes y futuras.
         p Los suelos se caracterizan por sus propiedades físicas, químicas y biológicas que los componen. Dentro de las categorías biofísicas se mezclan partículas orgánicas e inorgánicas en mayor y menor grado de integración. La integración de características como textura, estructura, consistencia, porosidad, drenaje y profundidad efectiva permite establecer pautas para el manejo y calcular el rendimiento esperado. 
@@ -207,7 +207,7 @@
       .tarjeta.color3.p-3(x="6.2%" y="5.2%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
-            img(src='@/assets/curso/tema2/img19.svg')
+            img(src='@/assets/curso/tema2/img19.svg'  alt='Imagen Decorativa')
           .col-lg-8
             .h4 pH
             p.m-0 Acidez, la neutralidad o alcalinidad del suelo.
@@ -215,7 +215,7 @@
       .tarjeta.color3_1.p-3.px-4(x="29.4%" y="35.9%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
-            img(src='@/assets/curso/tema2/img20.svg')
+            img(src='@/assets/curso/tema2/img20.svg'  alt='Imagen Decorativa')
           .col-lg-9
             .h4 Capacidad de intercambio
             p.m-0 Poder intercambiar arcilla y humus, cediendo nutrientes a las plantas por medio de la captación de partículas minerales.
@@ -223,7 +223,7 @@
       .tarjeta.color3_4.p-3(x="53.6%" y="23.5%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
-            img(src='@/assets/curso/tema2/img21.svg')
+            img(src='@/assets/curso/tema2/img21.svg'  alt='Imagen Decorativa')
           .col-lg-9
             .h4 Color
             p.m-0 Depende de sus componentes y varía con la cantidad de humedad presente en el suelo.
@@ -231,7 +231,7 @@
       .tarjeta.color3.p-3(x="65.3%" y="13.8%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
-            img(src='@/assets/curso/tema2/img22.svg')
+            img(src='@/assets/curso/tema2/img22.svg'  alt='Imagen Decorativa')
           .col-lg-8
             .h4 Fertilidad
             p.m-0 Cantidad de nutrientes que están disponibles para las plantas.
@@ -239,7 +239,7 @@
       .tarjeta.color3_1.p-4(x="10%" y="45.4%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
-            img(src='@/assets/curso/tema2/img23.svg')
+            img(src='@/assets/curso/tema2/img23.svg' alt='Imagen Decorativa')
           .col-lg-10
             .h4 Densidad 
             p.m-0 Influye en la distribución de la vegetación. Más densos sustentan más cantidad de vegetación.
@@ -247,7 +247,7 @@
       .tarjeta.color3_5.p-4.p-lg-3(x="92.7%" y="43.8%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
-            img(src='@/assets/curso/tema2/img24.svg')
+            img(src='@/assets/curso/tema2/img24.svg' alt='Imagen Decorativa')
           .col-lg-9
             .h4 Organismos
             p.m-0 Animales, bacterias, hongos, etc. Ejercen dependiendo de su alimentación, actividad, tamaño.
@@ -255,7 +255,7 @@
       .tarjeta.color3_4.p-3(x="20.5%" y="65.4%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
-            img(src='@/assets/curso/tema2/img25.svg')
+            img(src='@/assets/curso/tema2/img25.svg' alt='Imagen Decorativa')
           .col-lg-9
             .h4 Estructura
             p.m-0 Forma en la que las partículas del suelo se unen para formar  agregados.
@@ -263,7 +263,7 @@
       .tarjeta.color3_3.p-3(x="56.8%" y="54.6%" numero="")
         .row
           .col-auto.mb-3.mb-lg-0
-            img(src='@/assets/curso/tema2/img26.svg')
+            img(src='@/assets/curso/tema2/img26.svg' alt='Imagen Decorativa')
           .col-lg-10
             .h4 Textura
             p.m-0 Determina la proporción en la que se encuentran las partículas minerales de diversos tamaños que hay presentes en el suelo.

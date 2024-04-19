@@ -10,7 +10,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img01.png', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema1/img01.png', alt='Imagen Decorativa')
       .col-lg-8(data-aos="fade-right")
         p Con el fin de identificar herramientas y técnicas que permitan la intervención comunitaria, las comunidades mismas han diseñado junto a la academia estrategias para incidir de manera endógena en sus territorios. Es así como, las metodologías participativas para el desarrollo comunitario se suman como estrategias de actores y líderes sociales en el interés de facilitar la intervención comunitaria de actores externos y trabajar con estos de manera mancomunada por el bienestar social y cultural desde una visión propia, sin llegar a generar fracturas socioculturales por la incidencia y resistencia misma que las comunidades presentan. 
         .cajon.color-acento-contenido.p-4.ps-5.color2
@@ -24,7 +24,7 @@
           p.m-0.mt-4.mx-3.mx-lg-0 Esta metodología fomenta <b>la interacción interna y externa</b> de los grupos que comparten información, permitiendo el aprendizaje en conjunto para trabajar temas comunes. La participación dentro de las metodologías para el desarrollo comunitario se manifiesta a través de la experiencia de los participantes y esto genera un conocimiento en conjunto que repercute en el desarrollo endógeno a través de las comunidades mismas.
         .col-lg-5.mb-0.mb-lg-4(data-aos="fade-left")
           figure
-            img(src='@/assets/curso/tema1/img02.svg', alt='') 
+            img(src='@/assets/curso/tema1/img02.svg', alt='Imagen Decorativa') 
 
     p Es así como, a través de las metodologías participativas se puede compartir con las comunidades y con los grupos que tienen los conocimientos y habilidades aprendidas utilizando técnicas que facilitan la planificación de las sesiones a través del aprendizaje participativo en cualquier situación. 
 
@@ -36,7 +36,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img03.png', alt='') 
+          img.img-t.m-auto(src='@/assets/curso/tema1/img03.png', alt='Imagen Decorativa') 
       .col-lg-8
         p.m-0 Dentro de los métodos para el análisis de problemas comunitarios se establece el método cuantitativo, <b>son un grupo de estrategias para obtener y procesar información empleando variables numéricas y estadísticas</b> como, por ejemplo, la investigación descriptiva, analítica y experimental; también existe el método cualitativo donde no se obtienen datos numéricos, se emplea principalmente para explorar las relaciones sociales; <b>algunos de los ejemplos donde se emplea este tipo de investigación son los estudios culturales, etnográficas y la investigación participativa</b>. Esta última es un enfoque de la investigación social mediante el cual se busca la plena participación de la comunidad en el análisis de su propia realidad, con el objeto de promover la participación social para el beneficio de los participantes de la investigación, en el siguiente video se explica en qué consiste : 
       
@@ -51,7 +51,7 @@
     
       .col-lg-2(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img04.svg', alt='')
+          img.img-t.m-auto(src='@/assets/curso/tema1/img04.svg', alt='Imagen Decorativa')
       
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
       h5 Figura 1.
@@ -73,7 +73,7 @@
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img07.png', alt='') 
+          img.img-t.m-auto(src='@/assets/curso/tema1/img07.png', alt='Imagen Decorativa') 
       .cajon.color-acento-contenido.p-4.ps-5.color2.col-lg-8       
         p.m-0 La organización en las comunidades se establece a través de un objetivo en común y es promovida por los mismos actores sociales en busca de sus beneficios. La organización en comunidades toma forma según los criterios de relación e intereses y demandas organizativas endógenas. En esa medida, la organización comunitaria se manifiesta a partir de la necesidad de participación directa de las personas y sus comunidades en busca de generar conocimientos y transformaciones según los intereses comunitarios.  Según Muñoz (2012), las organizaciones comunitarias pueden ser definidas como el proceso por el cual los individuos intentan ocuparse de los asuntos relevantes para su comunidad. Este tipo de organizaciones establecen diversos enfoques, que en la siguiente infografía se pueden consultar: 
 
@@ -94,7 +94,7 @@
       .col-lg-10
         .tarjeta-avatar-b.mb-5
             .tarjeta-avatar-b__img
-              img.img-t.m-auto(src='@/assets/curso/tema1/img09.svg', alt='')
+              img.img-t.m-auto(src='@/assets/curso/tema1/img09.svg', alt='Imagen Decorativa')
             .tarjeta.tarjeta--gris.shadow-sm
               .p-4
                 p Colombia al ser un país con gran diversidad étnica y cultural, genera la presencia de grupos y comunidades que a pesar del paso del tiempo conservan su identidad, lengua, costumbres y tradiciones sociales, culturales y económicas, lo que conlleva a que se diferencie e identifique del resto de la sociedad. Estos se clasifican en 3 grandes grupos étnicos que son pueblos indígenas, negro o afrodescendientes, raizales, palenqueros y pueblo rom o gitano, a continuación, se puede visualizar cada grupo: por Colombia al ser un país con gran diversidad étnica y cultural, genera la presencia de grupos y comunidades que a pesar del paso del tiempo conservan su identidad, lengua, costumbres y tradiciones sociales, culturales y económicas, lo que conlleva a que se diferencie e identifique del resto de la sociedad. Estos se clasifican en 3 grandes grupos étnicos que son pueblos indígenas, negro o afrodescendientes, raizales, palenqueros y pueblo rom o gitano, a continuación, se puede destacar en uno de estos grupos:
@@ -103,7 +103,7 @@
     .row.justify-content-evenly.align-items-lg-stretch.my-4.mb-5.m_tar-boton
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img10.svg')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img10.svg' alt='Imagen Decorativa')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.color4
             h4.text-center.mb-0.text-verde-claro Pueblo Indígena
           .tarjeta-foto-hover__tarjeta.color4.d-flex.align-items-center.justify-content-center
@@ -112,7 +112,7 @@
               p.m-0.text-center.t_text.text-white Conjunto de familias de ascendencia amerindia que comparten vínculos y sentimientos de identificación con su pasado aborigen, conservando rasgos y valores propios de su cultura tradicional, así como formas de organización y control social propios que los distinguen de otros grupos étnicos.
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img11.svg')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img11.svg' alt='Imagen Decorativa')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.color4
             h4.text-center.mb-0.text-verde-claro Población negra o afrocolombiana
           .tarjeta-foto-hover__tarjeta.color4.d-flex.align-items-center.justify-content-center
@@ -121,7 +121,7 @@
               p.m-0.text-center.t_text.text-white Conjunto de familias de ascendencia afrocolombiana (provenientes de diversas regiones y etnias de África que llegaron al continente americano en calidad de esclavos), que poseen una cultura propia, y tienen sus propias tradiciones y costumbre dentro de la relación campo poblado.
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img12.svg')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img12.svg' alt='Imagen Decorativa')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.color4
             h4.text-center.mb-0.text-verde-claro Población raizal
           .tarjeta-foto-hover__tarjeta.color4.d-flex.align-items-center.justify-content-center
@@ -130,7 +130,7 @@
               p.m-0.text-center.t_text.text-white Población situada en el Archipiélago de San Andrés, Providencia y Santa Catalina, con raíces culturales afro, anglo, antillanas, cuyos miembros tienen rasgos socioculturales y lingüísticos claramente diferenciados del resto de la población afrocolombiana.
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img13.svg')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img13.svg' alt='Imagen Decorativa')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.color4
             h4.text-center.mb-0.text-verde-claro Población palenquero
           .tarjeta-foto-hover__tarjeta.color4.d-flex.align-items-center.justify-content-center
@@ -139,7 +139,7 @@
               p.m-0.text-center.t_text.text-white Población ubicada en el municipio de San Basilio de Palenque, departamento de Bolívar, donde se habla el palenquero, lenguaje criollo.
       .col-sm-6.col-lg-2.mb-5.mb-lg-0
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img14.svg')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/tema1/img14.svg' alt='Imagen Decorativa')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3.color4
             h4.text-center.mb-0.text-verde-claro Población rom o gitano
           .tarjeta-foto-hover__tarjeta.color4.d-flex.align-items-center.justify-content-center
@@ -159,7 +159,7 @@
         p Para Touraine (1981) citado Tavares-Martínez y Fitch-Osuna (2019) los actores sociales comunitarios se identifican y caracterizan como:
       .col-lg-4.mb-5(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img15.png', alt='') 
+          img.img-t.m-auto(src='@/assets/curso/tema1/img15.png', alt='Imagen Decorativa') 
 
     .row.mb-5
       .col-lg-12
@@ -167,7 +167,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-5.mb-4.mb-lg-0
               figure
-                img.img-t.m-auto(src='@/assets/curso/tema1/img16.svg', alt='')
+                img.img-t.m-auto(src='@/assets/curso/tema1/img16.svg', alt='Imagen Decorativa')
             .col-lg-6
               ul.lista-ul--color
                 li 
@@ -238,14 +238,14 @@
           p.m-0 Dentro de la normativa para la aplicación del enfoque diferencial Figueroa y Franco Novoa (2020), mencionan que la Corte Constitucional (Sentencia T-602/03 del 23 de junio de 2003) <b>instó al estado a desarrollar políticas públicas de salvaguarda de los derechos fundamentales que se ven violados cuando una comunidad es despojada de su territorio</b>. En 2012, la Corte Constitucional finalmente ofreció una definición más precisa de la noción de enfoque diferencial, que:
       .col-lg-5.mb-3(data-aos="fade-left")
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img22.png', alt='') 
+          img.img-t.m-auto(src='@/assets/curso/tema1/img22.png', alt='Imagen Decorativa') 
 
     .row.justify-content-center.mb-5
       .col-lg-8
         .bg_7.p-4
           .row.justify-content-center.align-items-center
             .col-lg-4.mb-4.mb-lg-0
-              img.img-t.m-auto(src='@/assets/curso/tema1/img23.svg', alt='') 
+              img.img-t.m-auto(src='@/assets/curso/tema1/img23.svg', alt='Imagen Decorativa') 
             .col-lg-8.d-flex.align-self-end.mb-5.mt-xl-5
               p.m-0.text-white.ms-4.ms-lg-0.mt-xl-5 Adopción de una serie de medidas encaminadas a enfrentar la situación de vulnerabilidad acentuada de algunas víctimas en razón de su edad, género, orientación sexual y situación de discapacidad.  (Sentencia C-253A del 29 de marzo de 2012) (p. 5).
 
@@ -255,12 +255,12 @@
         .row
           .col-lg-2.mb-4
             figure
-              img.img-t.m-auto(src='@/assets/curso/tema1/img26.svg', alt='') 
+              img.img-t.m-auto(src='@/assets/curso/tema1/img26.svg', alt='Imagen Decorativa') 
           .col-lg-10.mb-4.mb-lg-0
             p En esa medida, el enfoque diferencial de género para la ONU DDHH, en las sociedades actuales tiene como finalidad dar solución a la persistente y creciente desigualdad de la mujer por condiciones de empleo, educación y capacitación. Así como al acceso inapropiado a los servicios sanitarios y afines. Además, a la violencia contra la mujer y la escasa participación política a la par de la disparidad entre hombre y mujeres en el ejercicio del poder y la persistente discriminación y violación de los derechos de las niñas.
       .col-lg-4
         figure
-          img.img-t.m-auto(src='@/assets/curso/tema1/img25.png', alt='') 
+          img.img-t.m-auto(src='@/assets/curso/tema1/img25.png', alt='Imagen Decorativa') 
 
        
 
