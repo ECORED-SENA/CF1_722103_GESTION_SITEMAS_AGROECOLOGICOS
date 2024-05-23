@@ -361,36 +361,36 @@ export default {
         nombre: 'Miguel de Jesús Paredes Maestre',
         cargo: 'Responsable de línea de producción',
         centro:
-          'Regional Atlántico -Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+          'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
       },
     ],
     contenidoInstruccional: [
       {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Responsable equipo desarrollo curricular',
-        centro:
-          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro: 'Regional Distrito Capital ',
       },
       {
         nombre: 'Yisela Andrea Vidales Vásquez',
         cargo: 'Experta temática',
-        centro: 'Regional Tolima - Centro de Comercio y Servicios',
+        centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
         nombre: 'Paola Alexandra Moya Peralta',
         cargo: 'Diseñadora instruccional',
         centro:
-          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+          'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
       },
       {
-        nombre: 'Carolina Coca Salazar',
-        cargo: 'Asesora metodológica',
-        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Responsable Desarrollo Curricular',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Jhon Jairo Rodríguez Pérez',
         cargo: 'Corrector de estilo',
-        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
