@@ -11,10 +11,10 @@
 
     p.mb-4 Estimado aprendiz bienvenido al componente formativo “Caracterización del territorio para realizar propuestas agroecológicas”, para iniciar se invita a consultar el siguiente video y conocer más:
 
-    figure
-    .video
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/pQdCVircKs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    
+    figure.mb-5
+      .video
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/qvat4mf7xWk" title="Gestión de Sistemas Agroecológicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      
 </template>
 
 <script>

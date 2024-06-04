@@ -41,10 +41,10 @@
         p.m-0 Dentro de los métodos para el análisis de problemas comunitarios se establece el método cuantitativo, <b>son un grupo de estrategias para obtener y procesar información empleando variables numéricas y estadísticas</b> como, por ejemplo, la investigación descriptiva, analítica y experimental; también existe el método cualitativo donde no se obtienen datos numéricos, se emplea principalmente para explorar las relaciones sociales; <b>algunos de los ejemplos donde se emplea este tipo de investigación son los estudios culturales, etnográficas y la investigación participativa</b>. Esta última es un enfoque de la investigación social mediante el cual se busca la plena participación de la comunidad en el análisis de su propia realidad, con el objeto de promover la participación social para el beneficio de los participantes de la investigación, en el siguiente video se explica en qué consiste : 
       
 
-    figure
-    .video.mb-5
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/-RTSkYDqY0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+    figure.mb-5
+      .video
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/uvmXsplyyKY?si=pyBFagJm9zlBBTgd" title="Gestión de Sistemas Agroecológicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
     .row.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
         p Los métodos de análisis e investigación requieren del empleo de técnicas, es decir de herramientas, instrumentos y procedimientos que permitan obtener información y conocimiento, además de una adecuada planificación y selección de información teniendo en cuenta los requerimientos, características, necesidades de la comunidad como también factores como el tiempo. Como se observa en la figura 1 existe gran variedad de técnicas de investigación como, por ejemplo:  entrevista, cuestionario, encuesta, estudio de caso, matrices, flujograma, sociograma, taller, etc. La clasificación de las técnicas puede variar dependiendo el criterio que se analice, por ejemplo, según la información que aporten se clasifican en técnicas cualitativas, cuantitativas; según la fuente de información en técnicas de campo, documentales y experimentales. 

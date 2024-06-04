@@ -9,10 +9,10 @@
 
     p El territorio como una forma de construcción y apropiación social ha sido no solo estudiado como un espacio geográfico, sino que también se hace necesario analizarlo desde la parte social, cultural, ambiental, es decir desde diferentes puntos que son convergentes en la actualidad, no puede haber una separación física, natural y social dentro del territorio, en el siguiente video se puede conocer más acerca del territorio: 
 
-    figure
-    .video
-      iframe(width="560" height="315" src="https://www.youtube.com/embed/l5GdwyhcLX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
+    figure.mb-5
+      .video
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/l5GdwyhcLX0?si=83kbZrfDPs0Wr3NF" title="Gestión de Sistemas Agroecológicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
     Separador
 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
