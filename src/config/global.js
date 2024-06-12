@@ -195,7 +195,7 @@ export default {
         'IFC (2007). Relaciones con la comunidad y otros actores sociales: Manual de prácticas recomendadas para las empresas que hacen negocios en mercados emergentes.',
       tipo: 'Cartilla',
       link:
-        'https://www.ifc.org/wps/wcm/connect/eeb4bf63-90b7-43c5-9b45-41b30b6955f4/IFC_StakeholderEngagement_Spanish.pdf?MOD=AJPERES&CVID=jqetHux',
+        'https://www.ifc.org/content/dam/ifc/doc/mgrt/ifc-stakeholderengagement-spanish.pdf',
     },
     {
       tema: 'Metodologías participativas para desarrollo comunitario',
@@ -311,8 +311,7 @@ export default {
     {
       referencia:
         'Ministerio del Interior. (2015). El enfoque diferencial y étnico en la política de víctimas del conflicto armado. Ministerio del Interior.',
-      link:
-        'https://gapv.mininterior.gov.co/sites/default/files/cartilla_enfoque_diferencial_fin_1.pdf ',
+      link: 'https://www.mininterior.gov.co/enfoques-diferenciales/',
     },
     {
       referencia:
