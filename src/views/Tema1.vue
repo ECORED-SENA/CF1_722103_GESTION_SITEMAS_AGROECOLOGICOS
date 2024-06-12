@@ -43,7 +43,7 @@
 
     figure.mb-5
       .video
-        <iframe width="853" height="480" src="https://www.youtube.com/embed/uvmXsplyyKY?si=pyBFagJm9zlBBTgd" title="Gestión de Sistemas Agroecológicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="853" height="480" src="https://www.youtube.com/embed/-RTSkYDqY0E?si=mXi78YSFZI07atHo" title="Gestión de Sistemas Agroecológicos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     
     .row.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")

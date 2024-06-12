@@ -73,14 +73,20 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Usos del suelo y contexto histórico',
+            titulo: 'Conceptos y relaciones socio ambientales',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Características biofísicas',
+            titulo: 'Usos del suelo y contexto histórico',
             hash: 't_2_2',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.3',
+            titulo: 'Características biofísicas',
+            hash: 't_2_3',
           },
         ],
       },
