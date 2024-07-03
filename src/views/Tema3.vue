@@ -91,7 +91,6 @@
       .py-4.py-md-5(titulo="Fuentes primarias" :icono="require('@/assets/curso/tema3/img10.svg')")
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            h4 Fuentes primarias
             p Son las que suministran información directa, nueva y auténtica, publicada por primera vez y que no ha sido analizada por otra persona, como, por ejemplo, libros, manuscritos, entrevistas, discursos, cartas, diarios, revistas, videos, guías, testimonios, foros, tesis, documentales, informes, etc.    
           .col-md-4
             figure
@@ -100,7 +99,6 @@
       .py-4.py-md-5(titulo="Fuentes secundarias" :icono="require('@/assets/curso/tema3/img11.svg')")
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            h4 Fuentes secundarias
             p Contienen información obtenida de fuentes primarias que ha sido analizada, interpretada, ampliada, reorganizada y recapitulada, como por ejemplo las enciclopedias.      
           .col-md-4
             figure
@@ -109,13 +107,12 @@
       .py-4.py-md-5(titulo="Fuentes terciarias" :icono="require('@/assets/curso/tema3/img12.svg')")
         .row.justify-content-center
           .col-md-6.mb-4.mb-md-0
-            h4 Fuentes terciarias
             p Sirven para tener una noción o idea general del tema ya que reúnen y depura la información primaria y secundaria, logrando facilitar su control y acceso como por ejemplo directorios, bibliografías, índices, listas de lectura.     
           .col-md-4
             figure
               img(src='@/assets/curso/tema3/img12.png',  alt='Imagen Decorativa')
 
-    p Pero adicionalmente, como se observa en la figura 7 las fuentes de información cuentan con otras clasificaciones dependiendo del procedencia u origen de la información, según su formato, el alcance geográfico. 
+    p Pero adicionalmente, como se observa en la figura 7, las fuentes de información cuentan con otras clasificaciones dependiendo de la procedencia u origen de la información, según su formato, el alcance geográfico. 
 
     .titulo-sexto.color-acento-contenido(data-aos="fade-right").mb-4
       h5 Figura 7.

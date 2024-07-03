@@ -39,7 +39,7 @@
         .row.justify-content-center
           .col-lg-12
             figure
-              img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img02.svg', alt='EL territorio una porción de tierra que está delimitada, se relaciona y es un lugar donde coexiste la información, movilización, fortaleza y lucha a los agentes del capital; se considera un objeto de estudio para los análisis y diagnósticos, es un producto de la apropiación y construcción de manera social- natural de relaciones urbano-rurales y naturales.')
+              img.img-t.m-auto.d-none.d-lg-block(src='@/assets/curso/tema2/img02.svg', alt='El territorio, una porción de tierra que está delimitada, se relaciona y es un lugar donde coexiste la información, movilización, fortaleza y lucha a los agentes del capital; se considera un objeto de estudio para los análisis y diagnósticos, es un producto de la apropiación y construcción de manera social- natural de relaciones urbano-rurales y naturales.')
             figure
               img.img-t.m-auto.d-lg-none.d-md-block(src='@/assets/curso/tema2/img03.svg', alt='EL territorio una porción de tierra que está delimitada, se relaciona y es un lugar donde coexiste la información, movilización, fortaleza y lucha a los agentes del capital; se considera un objeto de estudio para los análisis y diagnósticos, es un producto de la apropiación y construcción de manera social- natural de relaciones urbano-rurales y naturales.')  
 
@@ -111,7 +111,7 @@
               .col-auto
                 img.img-t(src='@/assets/curso/tema2/img11.svg', alt='Torta de porcentaje del 3.1 %')
               .col-7.col-lg-8
-                p.m-0 <b>Ocupan el 3,1% (231 mil hectáreas)</b>        
+                p.m-0 <b>Ocupan el 3,1 % (231 mil hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
               img(src='@/assets/curso/tema2/img11.png', alt='Imagen Decorativa')
@@ -125,7 +125,7 @@
               .col-auto
                 img.img-t(src='@/assets/curso/tema2/img12.svg', alt='Torta de porcentaje de 12.7 %')
               .col-7.col-lg-8
-                p.m-0 <b>12,7% (14,5 millones de hectáreas)</b>        
+                p.m-0 <b>12,7 % (14,5 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
               img(src='@/assets/curso/tema2/img12.png',  alt='Imagen Decorativa')
@@ -139,7 +139,7 @@
               .col-auto
                 img.img-t(src='@/assets/curso/tema2/img13.svg', alt='Torta de porcentaje de 7.4%')
               .col-7.col-lg-8
-                p.m-0 <b>7,4% (8,4 millones de hectáreas)</b>        
+                p.m-0 <b>7,4 % (8,4 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
               img(src='@/assets/curso/tema2/img13.png',  alt='Imagen Decorativa')
@@ -152,7 +152,7 @@
               .col-auto
                 img.img-t(src='@/assets/curso/tema2/img14.svg', alt='Torta con porcentaje de 26.2 %')
               .col-7.col-lg-8
-                p.m-0 <b>26,2% (29,9 millones de hectáreas)</b>        
+                p.m-0 <b>26,2 % (29,9 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
               img(src='@/assets/curso/tema2/img14.png',  alt='Imagen Decorativa')
@@ -166,7 +166,7 @@
               .col-auto
                 img.img-t(src='@/assets/curso/tema2/img15.svg', alt='Torta de porcentaje de 36.1%')
               .col-7.col-lg-8
-                p.m-0 <b>36,1% (41,2 millones de hectáreas)</b>        
+                p.m-0 <b>36,1 % (41,2 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
               img(src='@/assets/curso/tema2/img15.png', alt='Imagen Decorativa')
@@ -179,7 +179,7 @@
               .col-auto
                 img.img-t(src='@/assets/curso/tema2/img16.svg', alt='Torta de porcentaje de 12.5 %')
               .col-7.col-lg-8
-                p.m-0 <b>12,5% (14,2 millones de hectáreas)</b>        
+                p.m-0 <b>12,5 % (14,2 millones de hectáreas)</b>        
           .col-11.col-lg-6.mt-0.mt-md-4
             figure
               img(src='@/assets/curso/tema2/img16.png', alt='Imagen Decorativa')

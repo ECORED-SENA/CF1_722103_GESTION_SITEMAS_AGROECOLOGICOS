@@ -122,7 +122,7 @@ export default {
             icono: 'far fa-file-alt',
             numero: '4.1',
             titulo:
-              'Tipos, necesidades e intereses de los actores conceptos y generalidades',
+              'Tipos, necesidades e intereses de los actores, conceptos y generalidades',
             hash: 't_4_1',
           },
           {
@@ -316,7 +316,7 @@ export default {
     {
       referencia:
         'Ministerio del Interior. (2015). El enfoque diferencial y étnico en la política de víctimas del conflicto armado. Ministerio del Interior.',
-      link: 'https://www.mininterior.gov.co/enfoques-diferenciales/',
+      link: '',
     },
     {
       referencia:
@@ -374,7 +374,7 @@ export default {
           nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },

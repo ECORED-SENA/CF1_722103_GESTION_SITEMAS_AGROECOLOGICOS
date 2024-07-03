@@ -18,7 +18,7 @@
     Separador
 
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="zoom-out-right")
-        h2 4.1. Tipos, necesidades e intereses de los actores conceptos y generalidades
+        h2 4.1. Tipos, necesidades e intereses de los actores, conceptos y generalidades
 
     .row.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-left")

@@ -47,7 +47,7 @@
     
     .row.align-items-center.mb-5
       .col-lg-10(data-aos="fade-right")
-        p Los métodos de análisis e investigación requieren del empleo de técnicas, es decir de herramientas, instrumentos y procedimientos que permitan obtener información y conocimiento, además de una adecuada planificación y selección de información teniendo en cuenta los requerimientos, características, necesidades de la comunidad como también factores como el tiempo. Como se observa en la figura 1 existe gran variedad de técnicas de investigación como, por ejemplo:  entrevista, cuestionario, encuesta, estudio de caso, matrices, flujograma, sociograma, taller, etc. La clasificación de las técnicas puede variar dependiendo el criterio que se analice, por ejemplo, según la información que aporten se clasifican en técnicas cualitativas, cuantitativas; según la fuente de información en técnicas de campo, documentales y experimentales. 
+        p Los métodos de análisis e investigación requieren del empleo de técnicas, es decir, de herramientas, instrumentos y procedimientos que permitan obtener información y conocimiento, además de una adecuada planificación y selección de información teniendo en cuenta los requerimientos, características, necesidades de la comunidad como también factores como el tiempo. Como se observa en la figura 1, existe gran variedad de técnicas de investigación como, por ejemplo:  entrevista, cuestionario, encuesta, estudio de caso, matrices, flujograma, sociograma, taller, etc. La clasificación de las técnicas puede variar dependiendo el criterio que se analice, por ejemplo, según la información que aporten se clasifican en técnicas cualitativas, cuantitativas; según la fuente de información en técnicas de campo, documentales y experimentales. 
     
       .col-lg-2(data-aos="fade-left")
         figure
@@ -63,7 +63,7 @@
           .row.justify-content-center
             .col-lg-10
               figure
-                img(src='@/assets/curso/tema1/img06.svg', alt='Muestra las técnicas de investigación, que son: Grupo focal, paneles ciudadanos, matriz DAFO, talleres, presupuesto participativo, matriz de evaluación, matriz reflexiva, transectos, entrevista deliberativa, intervención participativa, flujograma, sociograma, consultar popular o sondeo, conferencia de concenso y photo voice')
+                img(src='@/assets/curso/tema1/img06.svg', alt='Muestra las técnicas de investigación, que son: Grupo focal, paneles ciudadanos, matriz DAFO, talleres, presupuesto participativo, matriz de evaluación, matriz reflexiva, transectos, encuesta deliberativa, intervención participativa, flujograma, sociograma, consultar popular o sondeo, conferencia de concenso y photo voice')
               
     Separador
 
@@ -85,7 +85,7 @@
               h2.text-center.color1 Organizaciones comunitarias 
               p.text-center.t_letra1 Pueden contar con diversos enfoques como: 
               figure
-                img.img-t.m-auto(src='@/assets/curso/tema1/img08.svg', alt='Muestra el tipo de organizaciones y establece los diversos enfoques, esta descripción se pone de la imagen.')
+                img.img-t.m-auto(src='@/assets/curso/tema1/img08.svg', alt='Muestra el tipo de organizaciones y establece los diversos enfoques.')
 
     p.mb-5 Las formas de organización comunitaria forman parte natural de la vida de los individuos, de ahí que, se pueda pensar como forma de organización comunitaria el territorio, la población, las familias, los grupos formales e informales que se organizan de manera formal e informal y los colectivos que contribuyen al desarrollo comunitario a través de la multidimensionalidad social a la que responde. Cada una de las formas de organización comunitaria agrupa un determinado número de individuos y responden a problemas, intereses y demandas particulares según la necesidad de respuesta de los objetivos de la organización. 
     
@@ -97,7 +97,7 @@
               img.img-t.m-auto(src='@/assets/curso/tema1/img09.svg', alt='Imagen Decorativa')
             .tarjeta.tarjeta--gris.shadow-sm
               .p-4
-                p Colombia al ser un país con gran diversidad étnica y cultural, genera la presencia de grupos y comunidades que a pesar del paso del tiempo conservan su identidad, lengua, costumbres y tradiciones sociales, culturales y económicas, lo que conlleva a que se diferencie e identifique del resto de la sociedad. Estos se clasifican en 3 grandes grupos étnicos que son pueblos indígenas, negro o afrodescendientes, raizales, palenqueros y pueblo rom o gitano, a continuación, se puede visualizar cada grupo: por Colombia al ser un país con gran diversidad étnica y cultural, genera la presencia de grupos y comunidades que a pesar del paso del tiempo conservan su identidad, lengua, costumbres y tradiciones sociales, culturales y económicas, lo que conlleva a que se diferencie e identifique del resto de la sociedad. Estos se clasifican en 3 grandes grupos étnicos que son pueblos indígenas, negro o afrodescendientes, raizales, palenqueros y pueblo rom o gitano, a continuación, se puede destacar en uno de estos grupos:
+                p Colombia al ser un país con gran diversidad étnica y cultural, genera la presencia de grupos y comunidades que a pesar del paso del tiempo conservan su identidad, lengua, costumbres y tradiciones sociales, culturales y económicas, lo que conlleva a que se diferencie e identifique del resto de la sociedad. Estos se clasifican en 3 grandes grupos étnicos que son pueblos indígenas, negro o afrodescendientes, raizales, palenqueros y pueblo rom o gitano, a continuación, se puede visualizar cada grupo: 
       .col-lg-1
 
     .row.justify-content-evenly.align-items-lg-stretch.my-4.mb-5.m_tar-boton
