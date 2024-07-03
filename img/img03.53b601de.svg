@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="502.5" height="824" viewBox="0 0 502.5 824">
+  <defs>
+    <filter id="Rectángulo_33824" x="44.5" y="411" width="458" height="141" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_33825" x="41.5" y="547" width="458" height="141" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_33826" x="41.5" y="683" width="458" height="141" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_33823" x="106.5" y="172" width="333" height="236" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectángulo_33822" x="168.5" y="20.559" width="208" height="126" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_1003915" data-name="Grupo 1003915" transform="translate(4473 10255)">
+    <g transform="matrix(1, 0, 0, 1, -4473, -10255)" filter="url(#Rectángulo_33824)">
+      <g id="Rectángulo_33824-2" data-name="Rectángulo 33824" transform="translate(53.5 417)" fill="#fff" stroke="#adce32" stroke-width="2">
+        <rect width="440" height="123" rx="20" stroke="none"/>
+        <rect x="1" y="1" width="438" height="121" rx="19" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -4473, -10255)" filter="url(#Rectángulo_33825)">
+      <g id="Rectángulo_33825-2" data-name="Rectángulo 33825" transform="translate(50.5 553)" fill="#fff" stroke="#adce32" stroke-width="2">
+        <rect width="440" height="123" rx="20" stroke="none"/>
+        <rect x="1" y="1" width="438" height="121" rx="19" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -4473, -10255)" filter="url(#Rectángulo_33826)">
+      <g id="Rectángulo_33826-2" data-name="Rectángulo 33826" transform="translate(50.5 689)" fill="#fff" stroke="#adce32" stroke-width="2">
+        <rect width="440" height="123" rx="20" stroke="none"/>
+        <rect x="1" y="1" width="438" height="121" rx="19" fill="none"/>
+      </g>
+    </g>
+    <text id="Se_relaciona_y_es_un_lugar_donde_coexiste_la_información_movilización_fortaleza_y_lucha_a_los_agentes_del_capital." data-name="Se relaciona y es un lugar donde coexiste la información, movilización, fortaleza y lucha a los agentes del capital." transform="translate(-4365.5 -9810)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Se relaciona y es un lugar donde coexiste la </tspan><tspan x="0" y="39">información, movilización, fortaleza y lucha a </tspan><tspan x="0" y="63">los agentes del capital.</tspan></text>
+    <text id="Se_considera_un_objeto_de_estudio_y_enfoques_conceptuales_para_los_análisis_diagnósticos_e_interpretaciones_científicas._" data-name="Se considera un objeto de estudio y enfoques conceptuales para los análisis, diagnósticos e interpretaciones científicas. " transform="translate(-4368.5 -9674)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Se considera un objeto de estudio y enfoques </tspan><tspan x="0" y="39">conceptuales para los análisis, diagnósticos e </tspan><tspan x="0" y="63">interpretaciones científicas. </tspan></text>
+    <text id="Es_un_producto_de_la_apropiación_y_construcción_de_manera_social_natural_de_relaciones_urbano_rurales_y_naturales._" data-name="Es un producto de la apropiación y construcción de manera social – natural de relaciones urbano – rurales y naturales.    " transform="translate(-4368.5 -9538)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Es un producto de la apropiación y </tspan><tspan x="0" y="39">construcción de manera social – natural de </tspan><tspan x="0" y="63" xml:space="preserve">relaciones urbano – rurales y naturales.    </tspan></text>
+    <path id="Trazado_114333" data-name="Trazado 114333" d="M-3696.667-9925.5h-114V-9462h49" transform="translate(-660.833 -42.5)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="2" stroke-dasharray="0 4"/>
+    <line id="Línea_141" data-name="Línea 141" y1="43" transform="translate(-4200 -10120)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="2" stroke-dasharray="0 4"/>
+    <line id="Línea_168" data-name="Línea 168" x2="53" transform="translate(-4472 -9763.109)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="2" stroke-dasharray="0 4"/>
+    <line id="Línea_169" data-name="Línea 169" x2="53" transform="translate(-4472 -9633.805)" fill="none" stroke="#0b481e" stroke-linecap="round" stroke-width="2" stroke-dasharray="0 4"/>
+    <g transform="matrix(1, 0, 0, 1, -4473, -10255)" filter="url(#Rectángulo_33823)">
+      <rect id="Rectángulo_33823-2" data-name="Rectángulo 33823" width="315" height="218" rx="20" transform="translate(115.5 178)" fill="#adce32"/>
+    </g>
+    <text id="Una_apropiación_social_del_espacio_construido_a_través_de_las_relaciones_simbólicas_y_físicas_que_se_dan_dentro_del_espacio_socialmente_construido_dentro_de_una_porción_de_tierra_que_está_delimitada._" data-name="Una apropiación social del espacio, construido a través de las relaciones simbólicas y físicas que se dan dentro del espacio socialmente construido dentro de una porción de tierra que está delimitada. " transform="translate(-4337.5 -10035)" fill="#12263f" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="0" y="15">Una apropiación social del espacio, </tspan><tspan x="0" y="39">construido a través de las relaciones </tspan><tspan x="0" y="63">simbólicas y físicas que se dan </tspan><tspan x="0" y="87">dentro del espacio socialmente </tspan><tspan x="0" y="111">construido dentro de una porción de </tspan><tspan x="0" y="135">tierra que está delimitada. </tspan></text>
+    <g id="Grupo_80580" data-name="Grupo 80580" transform="translate(-4580.5 -12070.5)">
+      <g transform="matrix(1, 0, 0, 1, 107.5, 1815.5)" filter="url(#Rectángulo_33822)">
+        <rect id="Rectángulo_33822-2" data-name="Rectángulo 33822" width="190" height="108" rx="21" transform="translate(177.5 26.56)" fill="#0b481e"/>
+      </g>
+      <text id="El_territorio" data-name="El territorio" transform="translate(334.5 1920.922)" fill="#adce32" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">El territorio</tspan></text>
+      <g id="bandera" transform="translate(355.844 1815.5)">
+        <path id="Trazado_114324" data-name="Trazado 114324" d="M57.836,411.313l3.12,6.24h-20.8l3.12-6.24Zm0,0" transform="translate(-34.8 -357.842)" fill="#ccd1d9"/>
+        <path id="Trazado_114325" data-name="Trazado 114325" d="M37.276,463.473H8.156a4.154,4.154,0,0,1,4.16-4.16h20.8a4.159,4.159,0,0,1,4.16,4.16Zm0,0" transform="translate(-6.96 -399.602)" fill="#838f9b"/>
+        <path id="Trazado_114326" data-name="Trazado 114326" d="M96.476,59.313v4.16h-8.32v-4.16Zm0,0" transform="translate(-76.56 -51.601)" fill="#e6e9ed"/>
+        <path id="Trazado_114327" data-name="Trazado 114327" d="M102.4,14.433l-1.04,3.12H97.2l-1.04-3.12,3.12-3.12Zm0,0" transform="translate(-83.52 -9.841)" fill="#fcd770"/>
+        <path id="Trazado_114328" data-name="Trazado 114328" d="M108.316,120.433v12.48h-4.16v-41.6h4.16Zm0,0" transform="translate(-90.48 -79.442)" fill="#d3a06c"/>
+        <path id="Trazado_114329" data-name="Trazado 114329" d="M169.436,123.313v24.96h-33.28v-24.96Zm0,0" transform="translate(-118.32 -107.282)" fill="#ffeaa7"/>
+        <path id="Trazado_114330" data-name="Trazado 114330" d="M209.628,179.633l-.832,4.16h-14.56l-.832-4.16-1.248-6.24,5.2,2.08,4.16-4.16,4.16,4.16,5.2-2.08Zm0,0" transform="translate(-167.04 -149.042)" fill="#ffc729"/>
+        <path id="Trazado_114331" data-name="Trazado 114331" d="M52.156,42.031V14.991H18.876v-2.08h2.08V6.671H19.279l.787-2.362L15.756,0l-4.31,4.31.787,2.361H10.556v6.24h2.08v39.52h-4.8L4.679,58.74A5.19,5.19,0,0,0,.156,63.871v1.04h31.2v-1.04a5.19,5.19,0,0,0-4.523-5.131l-3.154-6.309h-4.8v-10.4Zm-2.08-24.96v22.88h-31.2V17.071Zm-31.2-6.24h-6.24V8.751h6.24Zm-5.05-5.958,1.93-1.931,1.93,1.93-.6,1.8h-2.66ZM29.1,62.831H2.414a3.126,3.126,0,0,1,2.942-2.08h20.8a3.126,3.126,0,0,1,2.942,2.08Zm-4.625-4.16H7.039l2.08-4.16H22.393Zm-9.757-6.24V12.911H16.8v39.52Zm0,0"/>
+        <path id="Trazado_114332" data-name="Trazado 114332" d="M184.035,174.991H200.3l2.624-13.119-6.346,2.538L192.167,160l-4.411,4.41-6.346-2.538Zm4.223-8.139,3.909-3.91,3.909,3.91,4.054-1.622-.7,3.522h-3.1v2.08h2.683l-.416,2.08H185.74l-.416-2.08h8.923v-2.08h-9.339l-.7-3.522Zm0,0" transform="translate(-157.691 -139.2)"/>
+      </g>
+    </g>
+  </g>
+</svg>

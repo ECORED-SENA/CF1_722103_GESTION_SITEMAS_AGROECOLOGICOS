@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_34026" data-name="Rectángulo 34026" width="56" height="56" transform="translate(571 1517)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_80" data-name="Enmascarar grupo 80" transform="translate(-571 -1517)" clip-path="url(#clip-path)">
+    <g id="salon-de-clases" transform="translate(571 1517)">
+      <path id="Trazado_117730" data-name="Trazado 117730" d="M6.125,1.75h43.75v24.5H6.125Z" fill="#6ebe5a"/>
+      <path id="Trazado_117731" data-name="Trazado 117731" d="M6.125,22.75h43.75v3.5H6.125Z" fill="#845a30"/>
+      <path id="Trazado_117732" data-name="Trazado 117732" d="M.875,33.25h24.5v3.5H.875Z" fill="#bcc1c4"/>
+      <rect id="Rectángulo_34033" data-name="Rectángulo 34033" width="14" height="7.875" rx="1.75" transform="translate(6.125 30.625)" fill="#db3a3a"/>
+      <path id="Trazado_117733" data-name="Trazado 117733" d="M6.125,44.625h14v3.5h-14Z" fill="#db3a3a"/>
+      <path id="Trazado_117734" data-name="Trazado 117734" d="M30.625,33.25h24.5v3.5h-24.5Z" fill="#bcc1c4"/>
+      <rect id="Rectángulo_34034" data-name="Rectángulo 34034" width="14" height="7.875" rx="1.75" transform="translate(35.875 30.625)" fill="#db3a3a"/>
+      <path id="Trazado_117735" data-name="Trazado 117735" d="M35.875,44.625h14v3.5h-14Z" fill="#db3a3a"/>
+      <path id="Trazado_117736" data-name="Trazado 117736" d="M37.625,19.25h7v3.5h-7Z" fill="#ffdc32"/>
+      <path id="Trazado_117737" data-name="Trazado 117737" d="M50.75.875H5.25v26.25h45.5ZM49,2.625v19.25H45.5v-3.5H36.75v3.5H7V2.625Zm-5.25,19.25H38.5v-1.75h5.25ZM7,25.375v-1.75H49v1.75Z"/>
+      <path id="Trazado_117738" data-name="Trazado 117738" d="M56,32.375H50.75a2.628,2.628,0,0,0-2.625-2.625h-10.5A2.628,2.628,0,0,0,35,32.375H29.75v5.25H31.5v14h1.75v-14h1.911a2.621,2.621,0,0,0,2.464,1.75H38.5V43.75H35V49h1.75v6.125H38.5V49h8.75v6.125H49V49h1.75V43.75h-3.5V39.375h.875a2.621,2.621,0,0,0,2.464-1.75H52.5v14h1.75v-14H56Zm-24.5,1.75H35v1.75H31.5ZM49,47.25H36.75V45.5H49Zm-3.5-3.5H40.25V39.375H45.5Zm3.5-7a.876.876,0,0,1-.875.875h-10.5a.876.876,0,0,1-.875-.875V32.375a.876.876,0,0,1,.875-.875h10.5a.876.876,0,0,1,.875.875Zm5.25-.875h-3.5v-1.75h3.5Z"/>
+      <path id="Trazado_117739" data-name="Trazado 117739" d="M18.375,29.75H7.875A2.628,2.628,0,0,0,5.25,32.375H0v5.25H1.75v14H3.5v-14H5.411a2.621,2.621,0,0,0,2.464,1.75H8.75V43.75H5.25V49H7v6.125H8.75V49H17.5v6.125h1.75V49H21V43.75H17.5V39.375h.875a2.621,2.621,0,0,0,2.464-1.75H22.75v14H24.5v-14h1.75v-5.25H21A2.628,2.628,0,0,0,18.375,29.75ZM1.75,34.125h3.5v1.75H1.75ZM19.25,47.25H7V45.5H19.25Zm-3.5-3.5H10.5V39.375h5.25Zm3.5-7a.876.876,0,0,1-.875.875H7.875A.876.876,0,0,1,7,36.75V32.375a.876.876,0,0,1,.875-.875h10.5a.876.876,0,0,1,.875.875Zm5.25-2.625v1.75H21v-1.75Z"/>
+    </g>
+  </g>
+</svg>
